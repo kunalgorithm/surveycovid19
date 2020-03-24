@@ -1,32 +1,47 @@
 import React, { useEffect } from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import Papa from "papaparse";
-import { csv } from "d3";
+
+import PieChart from "./components/PieChart";
 
 function App() {
-  const [rows, setRows] = React.useState([]);
-  useEffect(() => {
-    csv("./data/MasterExcel2.csv").then(data => console.log(data));
-  }, []);
-
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        {rows.length}
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div style={{ height: "500px", width: "100%" }}>
+      hi
+      <PieChart
+        data={[
+          {
+            id: "go",
+            label: "go",
+            value: 295,
+            color: "hsl(153, 70%, 50%)"
+          },
+          {
+            id: "haskell",
+            label: "haskell",
+            value: 415,
+            color: "hsl(85, 70%, 50%)"
+          },
+          {
+            id: "erlang",
+            label: "erlang",
+            value: 402,
+            color: "hsl(231, 70%, 50%)"
+          },
+          {
+            id: "css",
+            label: "css",
+            value: 181,
+            color: "hsl(305, 70%, 50%)"
+          },
+          {
+            id: "elixir",
+            label: "elixir",
+            value: 446,
+            color: "hsl(8, 70%, 50%)"
+          }
+        ]}
+      />
     </div>
   );
 }
