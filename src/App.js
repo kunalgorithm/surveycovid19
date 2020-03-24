@@ -2,23 +2,12 @@ import React, { useEffect } from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import Papa from "papaparse";
-// import {csv } from "d3"
+import { csv } from "d3";
 
 function App() {
   const [rows, setRows] = React.useState([]);
   useEffect(() => {
-    async function getData() {
-      const response = await fetch("/data/MasterExcel2.csv");
-      const reader = response.body.getReader();
-      const result = await reader.read(); // raw array
-      const decoder = new TextDecoder("utf-8");
-      const csv = decoder.decode(result.value); // the csv text
-      const results = Papa.parse(csv, { header: true }); // object with { data, errors, meta }
-      const rows = results.data; // array of objects
-      console.log(rows);
-      setRows(rows);
-    }
-    getData();
+    csv("./data/MasterExcel2.csv").then(data => console.log(data));
   }, []);
 
   return (
