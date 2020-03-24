@@ -2,8487 +2,7029 @@ export const data = [
   {
     Datasource: "Google2",
     Timestamp: "3/18/20 18:42",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 54,
-    "What year were you born?": 1990,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94103,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 54,
+    year_born: 1990,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94103,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?":
-      "Computers (Hardware, software, internet), Researcher",
-    "What is your income?": "Between $150,000 and $199,000"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "About the same",
+    industry: "Computers (Hardware, software, internet), Researcher",
+    income: "Between $150,000 and $199,000"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/18/20 19:09",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 36,
-    "What year were you born?": 1985,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94115,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 36,
+    year_born: 1985,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 94115,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?":
-      "Computers (Hardware, software, internet)",
-    "What is your income?": "More than $200,000"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Significantly worse",
+    industry: "Computers (Hardware, software, internet)",
+    income: "More than $200,000"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/18/20 19:11",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1959,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 29673,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1959,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 29673,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "Aerospace/Aviation",
-    "What is your income?": "Between $75,000 and $99,999"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Agree",
+    doing_financially: "About the same",
+    industry: "Aerospace/Aviation",
+    income: "Between $75,000 and $99,999"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/18/20 19:33",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 9,
-    "What year were you born?": 1990,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 93063,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 9,
+    year_born: 1990,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 93063,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Rescheduled or canceled pre-arranged travel plans, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly disagree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat better",
-    "What industry are you part of?":
-      "Engineering (except software engineering)",
-    "What is your income?": "Between $150,000 and $199,000"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Strongly disagree",
+    doing_financially: "Somewhat better",
+    industry: "Engineering (except software engineering)",
+    income: "Between $150,000 and $199,000"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/18/20 19:46",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1981,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 97206,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1981,
+    gender: "Female",
+    ethnicity: "Caucasian",
+    zip_code: 97206,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "Non-profit",
-    "What is your income?": "More than $200,000"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Agree",
+    doing_financially: "Somewhat worse",
+    industry: "Non-profit",
+    income: "More than $200,000"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/18/20 20:11",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 20,
-    "What year were you born?": 1987,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 10065,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 20,
+    year_born: 1987,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 10065,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?":
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Somewhat worse",
+    industry:
       "Aerospace/Aviation, Agriculture/Forestry/Fishing, software engineering",
-    "What is your income?": "More than $200,000"
+    income: "More than $200,000"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/18/20 21:04",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 16,
-    "What year were you born?": 1998,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 1545,
-    "What is your employment status?": "Student",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 16,
+    year_born: 1998,
+    gender: "Male",
+    ethnicity: "Asian/Asian American",
+    zip_code: 1545,
+    employment_status: "Student",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?":
-      "Computers (Hardware, software, internet)",
-    "What is your income?": "Between $25,000 and $49,999"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Somewhat worse",
+    industry: "Computers (Hardware, software, internet)",
+    income: "Between $25,000 and $49,999"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/18/20 21:47",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1991,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 98004,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1991,
+    gender: "Male",
+    ethnicity: "Asian/Asian American",
+    zip_code: 98004,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Ate at a restaurant, Did not leave my home for non-critical needs",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Disagree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat better",
-    "What industry are you part of?":
-      "Computers (Hardware, software, internet)",
-    "What is your income?": "Between $150,000 and $199,000"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Disagree",
+    doing_financially: "Somewhat better",
+    industry: "Computers (Hardware, software, internet)",
+    income: "Between $150,000 and $199,000"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/19/20 1:14",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1993,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94131,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1993,
+    gender: "Male",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94131,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "Prefer not to say",
-    "What is your income?": "Between $125,000 and $149,999"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Somewhat worse",
+    industry: "Prefer not to say",
+    income: "Between $125,000 and $149,999"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/19/20 10:48",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 1988,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 10018,
-    "What is your employment status?": "Self-employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 4,
+    year_born: 1988,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 10018,
+    employment_status: "Self-employed",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "Professional Services",
-    "What is your income?": "Less than $25,000"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Agree",
+    doing_financially: "About the same",
+    industry: "Professional Services",
+    income: "Less than $25,000"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/19/20 11:12",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1989,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 10036,
-    "What is your employment status?": "Not employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1989,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 10036,
+    employment_status: "Not employed",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?": "Unemployed",
-    "What is your income?": "Prefer not to say"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Significantly worse",
+    industry: "Unemployed",
+    income: "Prefer not to say"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/19/20 11:27",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1995,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian, Hispanic/Latinx",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 10031,
-    "What is your employment status?": "Student",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1995,
+    gender: "Male",
+    ethnicity: "Caucasian, Hispanic/Latinx",
+    zip_code: 10031,
+    employment_status: "Student",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?":
-      "Computers (Hardware, software, internet)",
-    "What is your income?": "More than $200,000"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "About the same",
+    industry: "Computers (Hardware, software, internet)",
+    income: "More than $200,000"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/19/20 11:36",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 6,
-    "What year were you born?": 1992,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 10009,
-    "What is your employment status?": "Student",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 6,
+    year_born: 1992,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 10009,
+    employment_status: "Student",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?":
-      "Computers (Hardware, software, internet)",
-    "What is your income?": "Less than $25,000"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Significantly worse",
+    industry: "Computers (Hardware, software, internet)",
+    income: "Less than $25,000"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/19/20 12:07",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1994,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 10017,
-    "What is your employment status?": "Student",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1994,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 10017,
+    employment_status: "Student",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "Unemployed",
-    "What is your income?": "Less than $25,000"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Somewhat worse",
+    industry: "Unemployed",
+    income: "Less than $25,000"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/19/20 12:11",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1996,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian, Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 10032,
-    "What is your employment status?": "Student",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1996,
+    gender: "Male",
+    ethnicity: "Caucasian, Asian/Asian American",
+    zip_code: 10032,
+    employment_status: "Student",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "Prefer not to say",
-    "What is your income?": "Less than $25,000"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "About the same",
+    industry: "Prefer not to say",
+    income: "Less than $25,000"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/19/20 12:32",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 16,
-    "What year were you born?": 1992,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 10036,
-    "What is your employment status?": "Not employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 16,
+    year_born: 1992,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 10036,
+    employment_status: "Not employed",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?": "Unemployed",
-    "What is your income?": "Between $100,000 and $124,999"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Significantly worse",
+    industry: "Unemployed",
+    income: "Between $100,000 and $124,999"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/19/20 12:39",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 1993,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 22207,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No, I don't know",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 4,
+    year_born: 1993,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 22207,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "No, I don't know",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "Arts/Entertainment/Recreation",
-    "What is your income?": "Between $25,000 and $49,999"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Agree",
+    doing_financially: "About the same",
+    industry: "Arts/Entertainment/Recreation",
+    income: "Between $25,000 and $49,999"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/19/20 14:41",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1997,
-    "What is your gender?": "Other",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 11238,
-    "What is your employment status?": "Student",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1997,
+    gender: "Other",
+    ethnicity: "Caucasian",
+    zip_code: 11238,
+    employment_status: "Student",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?":
-      "Computers (Hardware, software, internet)",
-    "What is your income?": "Less than $25,000"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "About the same",
+    industry: "Computers (Hardware, software, internet)",
+    income: "Less than $25,000"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/19/20 15:50",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 20,
-    "What year were you born?": 1989,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 10018,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 20,
+    year_born: 1989,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 10018,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly better",
-    "What industry are you part of?":
-      "Computers (Hardware, software, internet)",
-    "What is your income?": "Prefer not to say"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Significantly better",
+    industry: "Computers (Hardware, software, internet)",
+    income: "Prefer not to say"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/19/20 19:56",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1991,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94112,
-    "What is your employment status?": "Prefer not to say",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1991,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94112,
+    employment_status: "Prefer not to say",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "Prefer not to say",
-    "What is your income?": "Between $25,000 and $49,999"
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Somewhat worse",
+    industry: "Prefer not to say",
+    income: "Between $25,000 and $49,999"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/19/20 20:00",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1979,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95035,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
-      "Did not leave my home for non-critical needs",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?":
-      "Engineering (except software engineering)",
-    "What is your income?": "Between $75,000 and $99,999"
+    weeks_before_normal: 12,
+    year_born: 1979,
+    gender: "Male",
+    ethnicity: "Asian/Asian American",
+    zip_code: 95035,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours: "Did not leave my home for non-critical needs",
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Significantly worse",
+    industry: "Engineering (except software engineering)",
+    income: "Between $75,000 and $99,999"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/20/20 6:40",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1994,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Prefer not to say",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 11215,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1994,
+    gender: "Male",
+    ethnicity: "Prefer not to say",
+    zip_code: 11215,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?":
-      "Computers (Hardware, software, internet)",
-    "What is your income?": "Prefer not to say"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "About the same",
+    industry: "Computers (Hardware, software, internet)",
+    income: "Prefer not to say"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/20/20 7:44",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1991,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95134,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1991,
+    gender: "Male",
+    ethnicity: "Asian/Asian American",
+    zip_code: 95134,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?":
-      "Computers (Hardware, software, internet)",
-    "What is your income?": "More than $200,000"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Neutral",
+    doing_financially: "About the same",
+    industry: "Computers (Hardware, software, internet)",
+    income: "More than $200,000"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/20/20 11:34",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 6,
-    "What year were you born?": 1999,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 11362,
-    "What is your employment status?": "Student",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 6,
+    year_born: 1999,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 11362,
+    employment_status: "Student",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth, Attended in-person gatherings outside of my household, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "Unemployed",
-    "What is your income?": "More than $200,000"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "About the same",
+    industry: "Unemployed",
+    income: "More than $200,000"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/20/20 14:52",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 24,
-    "What year were you born?": 1995,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Black/African American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94110,
-    "What is your employment status?": "Student",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 24,
+    year_born: 1995,
+    gender: "Male",
+    ethnicity: "Black/African American",
+    zip_code: 94110,
+    employment_status: "Student",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?":
-      "Computers (Hardware, software, internet)",
-    "What is your income?": "More than $200,000"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Agree",
+    doing_financially: "About the same",
+    industry: "Computers (Hardware, software, internet)",
+    income: "More than $200,000"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/20/20 15:05",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 16,
-    "What year were you born?": 1991,
-    "What is your gender?": "Other",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 98118,
-    "What is your employment status?": "Self-employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 16,
+    year_born: 1991,
+    gender: "Other",
+    ethnicity: "Caucasian",
+    zip_code: 98118,
+    employment_status: "Self-employed",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat better",
-    "What industry are you part of?":
-      "Computers (Hardware, software, internet)",
-    "What is your income?": "Between $150,000 and $199,000"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Agree",
+    doing_financially: "Somewhat better",
+    industry: "Computers (Hardware, software, internet)",
+    income: "Between $150,000 and $199,000"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/20/20 16:21",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 79,
-    "What year were you born?": 1985,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 2138,
-    "What is your employment status?": "Self-employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 79,
+    year_born: 1985,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 2138,
+    employment_status: "Self-employed",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?":
-      "Computers (Hardware, software, internet)",
-    "What is your income?": "Between $125,000 and $149,999"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Somewhat worse",
+    industry: "Computers (Hardware, software, internet)",
+    income: "Between $125,000 and $149,999"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/20/20 19:48",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 5,
-    "What year were you born?": 1998,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 2142,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 5,
+    year_born: 1998,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 2142,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Attended in-person gatherings outside of my household, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly better",
-    "What industry are you part of?":
-      "Computers (Hardware, software, internet)",
-    "What is your income?": "Between $150,000 and $199,000"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Significantly better",
+    industry: "Computers (Hardware, software, internet)",
+    income: "Between $150,000 and $199,000"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/20/20 20:35",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 6,
-    "What year were you born?": 1989,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94114,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 6,
+    year_born: 1989,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 94114,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners), Shook hands with anyone outside of my household",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "Research/ Science",
-    "What is your income?": "Between $75,000 and $99,999"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "About the same",
+    industry: "Research/ Science",
+    income: "Between $75,000 and $99,999"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/20/20 22:00",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1989,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94306,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1989,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94306,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?":
-      "Computers (Hardware, software, internet)",
-    "What is your income?": "Between $150,000 and $199,000"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Agree",
+    doing_financially: "Somewhat worse",
+    industry: "Computers (Hardware, software, internet)",
+    income: "Between $150,000 and $199,000"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/21/20 7:57",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1990,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 7024,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1990,
+    gender: "Male",
+    ethnicity: "Asian/Asian American",
+    zip_code: 7024,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?": "Education",
-    "What is your income?": "Between $150,000 and $199,000"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Significantly worse",
+    industry: "Education",
+    income: "Between $150,000 and $199,000"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/21/20 17:38",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 25,
-    "What year were you born?": 1981,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94304,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 25,
+    year_born: 1981,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94304,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Attended in-person gatherings outside of my household, Rescheduled or canceled pre-arranged travel plans",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "Education, Research/ Science",
-    "What is your income?": "More than $200,000"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Neutral",
+    doing_financially: "About the same",
+    industry: "Education, Research/ Science",
+    income: "More than $200,000"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/21/20 18:13",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1981,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94025,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1981,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 94025,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat better",
-    "What industry are you part of?":
-      "Computers (Hardware, software, internet), Research/ Science",
-    "What is your income?": "Between $100,000 and $124,999"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Somewhat better",
+    industry: "Computers (Hardware, software, internet), Research/ Science",
+    income: "Between $100,000 and $124,999"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/21/20 18:28",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1981,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94025,
-    "What is your employment status?": "Self-employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1981,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94025,
+    employment_status: "Self-employed",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat better",
-    "What industry are you part of?": "Food Services",
-    "What is your income?": "Between $75,000 and $99,999"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Agree",
+    doing_financially: "Somewhat better",
+    industry: "Food Services",
+    income: "Between $75,000 and $99,999"
   },
   {
     Datasource: "Google2",
     Timestamp: "3/21/20 19:02",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1993,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 11374,
-    "What is your employment status?": "Student",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1993,
+    gender: "Male",
+    ethnicity: "Asian/Asian American",
+    zip_code: 11374,
+    employment_status: "Student",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "Medical/ Healthcare",
-    "What is your income?": "More than $200,000"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Agree",
+    doing_financially: "Somewhat worse",
+    industry: "Medical/ Healthcare",
+    income: "More than $200,000"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 15:09:54",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 40,
-    "What year were you born?": 2002,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94536,
-    "What is your employment status?": "student",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 40,
+    year_born: 2002,
+    gender: "female",
+    ethnicity: "hispanic",
+    zip_code: 94536,
+    employment_status: "student",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "construction",
-    "What is your income?": "More than $200,000"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Somewhat worse",
+    industry: "construction",
+    income: "More than $200,000"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 14:20:29",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1976,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94403,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1976,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 94403,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,,Maintained 3 feet distance between myself and other people outside of my household,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "manufacturing_computer_and_electronics",
-    "What is your income?": "More than $200,000"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Somewhat worse",
+    industry: "manufacturing_computer_and_electronics",
+    income: "More than $200,000"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 17:14:07",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 28,
-    "What year were you born?": 2001,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94134,
-    "What is your employment status?": "other",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "I don't know",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 28,
+    year_born: 2001,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 94134,
+    employment_status: "other",
+    loved_ones_at_risk: "I don't know",
+    past_48_hours:
       "Attended in-person gatherings outside of my household,,,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "other",
-    "What is your income?": "More than $200,000"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Agree",
+    doing_financially: "Somewhat worse",
+    industry: "other",
+    income: "More than $200,000"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 15:14:01",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 24,
-    "What year were you born?": 1963,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94114,
-    "What is your employment status?": "retired",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
-      "Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?": "construction",
-    "What is your income?": "lower_i"
+    weeks_before_normal: 24,
+    year_born: 1963,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94114,
+    employment_status: "retired",
+    loved_ones_at_risk: "No",
+    past_48_hours: "Did not leave my home for non-critical needs,",
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Significantly worse",
+    industry: "construction",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 16:34:08",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1995,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94705,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1995,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 94705,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly better",
-    "What industry are you part of?": "education",
-    "What is your income?": "prefer_not_to_say"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Significantly better",
+    industry: "education",
+    income: "prefer_not_to_say"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 10:19:06",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 1987,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "black",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94603,
-    "What is your employment status?": "self_employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 4,
+    year_born: 1987,
+    gender: "male",
+    ethnicity: "black",
+    zip_code: 94603,
+    employment_status: "self_employed",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Neutral",
+    doing_financially: "About the same",
+    industry: "other",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 11:53:51",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 24,
-    "What year were you born?": 1973,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94110,
-    "What is your employment status?": "unable_to_work",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "I don't know",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 24,
+    year_born: 1973,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94110,
+    employment_status: "unable_to_work",
+    loved_ones_at_risk: "I don't know",
+    past_48_hours:
       "Attended in-person gatherings outside of my household,,,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,,Ate at a restaurant",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "About the same",
+    industry: "other",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 16:28:38",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1971,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94043,
-    "What is your employment status?": "homemaker",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1971,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94043,
+    employment_status: "homemaker",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,,Maintained 3 feet distance between myself and other people outside of my household,,Ate at a restaurant",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat better",
-    "What industry are you part of?": "homemaker",
-    "What is your income?": "high_iii"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Neutral",
+    doing_financially: "Somewhat better",
+    industry: "homemaker",
+    income: "high_iii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 14:20:52",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 6,
-    "What year were you born?": 1985,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94110,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 6,
+    year_born: 1985,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94110,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat better",
-    "What industry are you part of?": "other",
-    "What is your income?": "high_iii"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Somewhat better",
+    industry: "other",
+    income: "high_iii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 10:50:07",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 5,
-    "What year were you born?": 2000,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95035,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 5,
+    year_born: 2000,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 95035,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat better",
-    "What industry are you part of?": "wholesale",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Somewhat better",
+    industry: "wholesale",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 09:40:07",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1953,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94041,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1953,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94041,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled pre-arranged travel plans,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "software",
-    "What is your income?": "middle_i"
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "Agree",
+    doing_financially: "About the same",
+    industry: "software",
+    income: "middle_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 16:06:53",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 1993,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94109,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 4,
+    year_born: 1993,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 94109,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,,,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "arts_entertainment_or_recreation",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Agree",
+    doing_financially: "Somewhat worse",
+    industry: "arts_entertainment_or_recreation",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 09:07:43",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 16,
-    "What year were you born?": 1952,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "black",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95141,
-    "What is your employment status?": "retired",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 16,
+    year_born: 1952,
+    gender: "male",
+    ethnicity: "black",
+    zip_code: 95141,
+    employment_status: "retired",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Rescheduled or canceled pre-arranged travel plans,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Agree",
+    doing_financially: "Somewhat worse",
+    industry: "other",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 12:48:11",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1969,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94538,
-    "What is your employment status?": "retired",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1969,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 94538,
+    employment_status: "retired",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "health_care_and_social_assistance",
-    "What is your income?": "prefer_not_to_say"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Agree",
+    doing_financially: "About the same",
+    industry: "health_care_and_social_assistance",
+    income: "prefer_not_to_say"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 15:22:20",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 5,
-    "What year were you born?": 1991,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94536,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 5,
+    year_born: 1991,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 94536,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Shook hands with anyone outside of my household,,,,Rescheduled or canceled pre-arranged travel plans,,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "hotel_and_food_services",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Neutral",
+    doing_financially: "Somewhat worse",
+    industry: "hotel_and_food_services",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 10:00:09",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 13,
-    "What year were you born?": 1970,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95141,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 13,
+    year_born: 1970,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 95141,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Disagree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat better",
-    "What industry are you part of?": "other",
-    "What is your income?": "middle_i"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "Disagree",
+    doing_financially: "Somewhat better",
+    industry: "other",
+    income: "middle_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 16:41:20",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1966,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94040,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1966,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 94040,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,Increased frequency of hand washing with soap,,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?": "scientific_or_technical_services",
-    "What is your income?": "high_iii"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Significantly worse",
+    industry: "scientific_or_technical_services",
+    income: "high_iii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 16:03:28",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 5,
-    "What year were you born?": 1997,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94087,
-    "What is your employment status?": "unemployed_looking",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 5,
+    year_born: 1997,
+    gender: "female",
+    ethnicity: "hispanic",
+    zip_code: 94087,
+    employment_status: "unemployed_looking",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Attended in-person gatherings of 50 people,Attended in-person gatherings outside of my household,Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,Ate at a restaurant",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?": "education",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Agree",
+    doing_financially: "Significantly worse",
+    industry: "education",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 15:59:09",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1980,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94610,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1980,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94610,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,Increased frequency of hand washing with soap,,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?": "transportation_and_warehousing",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Significantly worse",
+    industry: "transportation_and_warehousing",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 10:28:48",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 52,
-    "What year were you born?": 1987,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "black",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94110,
-    "What is your employment status?": "unemployed_looking",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 52,
+    year_born: 1987,
+    gender: "male",
+    ethnicity: "black",
+    zip_code: 94110,
+    employment_status: "unemployed_looking",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Increased frequency of hand washing with soap,,,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "construction",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Neutral",
+    doing_financially: "About the same",
+    industry: "construction",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 10:58:32",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1960,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "multiracial",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95122,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1960,
+    gender: "female",
+    ethnicity: "multiracial",
+    zip_code: 95122,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "education",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "About the same",
+    industry: "education",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 15:49:01",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1987,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95122,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1987,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 95122,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "construction",
-    "What is your income?": "high_ii"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Agree",
+    doing_financially: "Somewhat worse",
+    industry: "construction",
+    income: "high_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 16:50:48",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 30,
-    "What year were you born?": 2001,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94568,
-    "What is your employment status?": "student",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 30,
+    year_born: 2001,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94568,
+    employment_status: "student",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Rescheduled or canceled pre-arranged travel plans,,,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "other",
-    "What is your income?": "prefer_not_to_say"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Somewhat worse",
+    industry: "other",
+    income: "prefer_not_to_say"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 14:03:19",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1971,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95122,
-    "What is your employment status?": "unable_to_work",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "I don't know",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1971,
+    gender: "female",
+    ethnicity: "hispanic",
+    zip_code: 95122,
+    employment_status: "unable_to_work",
+    loved_ones_at_risk: "I don't know",
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "homemaker",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Neutral",
+    doing_financially: "About the same",
+    industry: "homemaker",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 15:34:26",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1991,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94123,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1991,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94123,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,,,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "arts_entertainment_or_recreation",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "About the same",
+    industry: "arts_entertainment_or_recreation",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 15:01:27",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 1000,
-    "What year were you born?": 1957,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94041,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
-      "Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Disagree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "education",
-    "What is your income?": "middle_i"
+    weeks_before_normal: 1000,
+    year_born: 1957,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94041,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "No",
+    past_48_hours: "Did not leave my home for non-critical needs,",
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Disagree",
+    doing_financially: "Somewhat worse",
+    industry: "education",
+    income: "middle_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 16:07:25",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1983,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94112,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1983,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 94112,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,Increased frequency of hand washing with soap,,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?": "health_care_and_social_assistance",
-    "What is your income?": "high_iii"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Significantly worse",
+    industry: "health_care_and_social_assistance",
+    income: "high_iii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 09:01:23",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1988,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94086,
-    "What is your employment status?": "homemaker",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1988,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94086,
+    employment_status: "homemaker",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Rescheduled or canceled pre-arranged travel plans,,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly disagree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "homemaker",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Strongly disagree",
+    doing_financially: "About the same",
+    industry: "homemaker",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 15:02:36",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 24,
-    "What year were you born?": 1974,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "multiracial",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95122,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 24,
+    year_born: 1974,
+    gender: "female",
+    ethnicity: "multiracial",
+    zip_code: 95122,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?": "hotel_and_food_services",
-    "What is your income?": "middle_i"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Neutral",
+    doing_financially: "Significantly worse",
+    industry: "hotel_and_food_services",
+    income: "middle_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 09:36:04",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 40,
-    "What year were you born?": 2000,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94127,
-    "What is your employment status?": "student",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 40,
+    year_born: 2000,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 94127,
+    employment_status: "student",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Increased frequency of hand washing with soap,,,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "marketing_sales",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Somewhat worse",
+    industry: "marketing_sales",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 12:43:18",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1959,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94115,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1959,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94115,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?": "other",
-    "What is your income?": "middle_i"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Significantly worse",
+    industry: "other",
+    income: "middle_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 10:09:16",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 5,
-    "What year were you born?": 1982,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94110,
-    "What is your employment status?": "self_employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 5,
+    year_born: 1982,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 94110,
+    employment_status: "self_employed",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Shook hands with anyone outside of my household,,,,,Increased frequency of hand washing with soap,,,,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?": "software",
-    "What is your income?": "high_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Agree",
+    doing_financially: "Significantly worse",
+    industry: "software",
+    income: "high_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 13:16:41",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1994,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95035,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1994,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 95035,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?": "hotel_and_food_services",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Significantly worse",
+    industry: "hotel_and_food_services",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 17:09:12",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 24,
-    "What year were you born?": 1961,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94109,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
-      "Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?": "software",
-    "What is your income?": "middle_ii"
+    weeks_before_normal: 24,
+    year_born: 1961,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94109,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "No",
+    past_48_hours: "Did not leave my home for non-critical needs,",
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Significantly worse",
+    industry: "software",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 15:17:13",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 16,
-    "What year were you born?": 1954,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94402,
-    "What is your employment status?": "retired",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 16,
+    year_born: 1954,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94402,
+    employment_status: "retired",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "other",
-    "What is your income?": "high_iii"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Agree",
+    doing_financially: "About the same",
+    industry: "other",
+    income: "high_iii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 17:11:07",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 2004,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95122,
-    "What is your employment status?": "unemployed_looking",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 4,
+    year_born: 2004,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 95122,
+    employment_status: "unemployed_looking",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Increased frequency of hand washing with soap,,Made an effort to avoid touching my eyes, nose and mouth,,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "other",
-    "What is your income?": "prefer_not_to_say"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Agree",
+    doing_financially: "About the same",
+    industry: "other",
+    income: "prefer_not_to_say"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 15:39:41",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 3,
-    "What year were you born?": 2002,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94124,
-    "What is your employment status?": "unemployed_looking",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 3,
+    year_born: 2002,
+    gender: "female",
+    ethnicity: "hispanic",
+    zip_code: 94124,
+    employment_status: "unemployed_looking",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Increased frequency of hand washing with soap,,Made an effort to avoid touching my eyes, nose and mouth,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "other",
-    "What is your income?": "prefer_not_to_say"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Neutral",
+    doing_financially: "About the same",
+    industry: "other",
+    income: "prefer_not_to_say"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 15:30:05",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 17,
-    "What year were you born?": 1999,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94010,
-    "What is your employment status?": "student",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 17,
+    year_born: 1999,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 94010,
+    employment_status: "student",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,,,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "health_care_and_social_assistance",
-    "What is your income?": "high_iii"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Agree",
+    doing_financially: "Somewhat worse",
+    industry: "health_care_and_social_assistance",
+    income: "high_iii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 16:33:32",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 3,
-    "What year were you born?": 1978,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94102,
-    "What is your employment status?": "unemployed_looking",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 3,
+    year_born: 1978,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94102,
+    employment_status: "unemployed_looking",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled pre-arranged travel plans,,,Made an effort to avoid touching my eyes, nose and mouth,,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "finance_and_insurance",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Neutral",
+    doing_financially: "Somewhat worse",
+    industry: "finance_and_insurance",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 09:51:48",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1979,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "black",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94606,
-    "What is your employment status?": "self_employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1979,
+    gender: "female",
+    ethnicity: "black",
+    zip_code: 94606,
+    employment_status: "self_employed",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat better",
-    "What industry are you part of?": "legal_services",
-    "What is your income?": "high_iii"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Somewhat better",
+    industry: "legal_services",
+    income: "high_iii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 14:30:06",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1985,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95121,
-    "What is your employment status?": "unemployed_looking",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "I don't know",
-    "In the past 48 hours, I... (check all that apply)":
-      "Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "construction",
-    "What is your income?": "middle_ii"
+    weeks_before_normal: 8,
+    year_born: 1985,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 95121,
+    employment_status: "unemployed_looking",
+    loved_ones_at_risk: "I don't know",
+    past_48_hours: "Did not leave my home for non-critical needs,",
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Agree",
+    doing_financially: "About the same",
+    industry: "construction",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 16:56:19",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 6,
-    "What year were you born?": 1961,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "prefer_not_to_say",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94131,
-    "What is your employment status?": "self_employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 6,
+    year_born: 1961,
+    gender: "female",
+    ethnicity: "prefer_not_to_say",
+    zip_code: 94131,
+    employment_status: "self_employed",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Rescheduled or canceled pre-arranged travel plans,,Cleaned surfaces with disinfecting wipes or sprays,,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "information_services_and_data",
-    "What is your income?": "prefer_not_to_say"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Agree",
+    doing_financially: "About the same",
+    industry: "information_services_and_data",
+    income: "prefer_not_to_say"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 12:17:49",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1991,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95127,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1991,
+    gender: "female",
+    ethnicity: "hispanic",
+    zip_code: 95127,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "manufacturing_other",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Somewhat worse",
+    industry: "manufacturing_other",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 13:40:22",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1984,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94041,
-    "What is your employment status?": "unemployed_looking",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1984,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94041,
+    employment_status: "unemployed_looking",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Increased frequency of hand washing with soap,,Made an effort to avoid touching my eyes, nose and mouth,,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Disagree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat better",
-    "What industry are you part of?": "retail",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Disagree",
+    doing_financially: "Somewhat better",
+    industry: "retail",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 15:29:31",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 1,
-    "What year were you born?": 1978,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "black",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94602,
-    "What is your employment status?": "retired",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
-      "Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_ii"
+    weeks_before_normal: 1,
+    year_born: 1978,
+    gender: "female",
+    ethnicity: "black",
+    zip_code: 94602,
+    employment_status: "retired",
+    loved_ones_at_risk: "No",
+    past_48_hours: "Did not leave my home for non-critical needs,",
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "About the same",
+    industry: "other",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 09:17:22",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1983,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "multiracial",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94109,
-    "What is your employment status?": "self_employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1983,
+    gender: "female",
+    ethnicity: "multiracial",
+    zip_code: 94109,
+    employment_status: "self_employed",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Neutral",
+    doing_financially: "About the same",
+    industry: "other",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 16:42:26",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1985,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95035,
-    "What is your employment status?": "homemaker",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1985,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 95035,
+    employment_status: "homemaker",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Attended in-person gatherings of 50 people,Attended in-person gatherings outside of my household,,,,,,,,Ate at a restaurant",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "human_resources",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "Agree",
+    doing_financially: "About the same",
+    industry: "human_resources",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 15:41:23",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 3,
-    "What year were you born?": 1998,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95035,
-    "What is your employment status?": "student",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 3,
+    year_born: 1998,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 95035,
+    employment_status: "student",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
-      "Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?": "retail",
-    "What is your income?": "lower_i"
+    past_48_hours: "Did not leave my home for non-critical needs,",
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Neutral",
+    doing_financially: "Significantly worse",
+    industry: "retail",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 16:38:53",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 20,
-    "What year were you born?": 1999,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94112,
-    "What is your employment status?": "student",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 20,
+    year_born: 1999,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94112,
+    employment_status: "student",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,Increased frequency of hand washing with soap,,Made an effort to avoid touching my eyes, nose and mouth,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "education",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Agree",
+    doing_financially: "Somewhat worse",
+    industry: "education",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 15:43:05",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 52,
-    "What year were you born?": 2000,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94306,
-    "What is your employment status?": "other",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 52,
+    year_born: 2000,
+    gender: "male",
+    ethnicity: "hispanic",
+    zip_code: 94306,
+    employment_status: "other",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),",
-    "In the past 48 hours, I... (check all that apply)":
-      "Rescheduled or canceled pre-arranged travel plans,,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "other",
-    "What is your income?": "prefer_not_to_say"
+    past_48_hours: "Rescheduled or canceled pre-arranged travel plans,,,,,,",
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Neutral",
+    doing_financially: "About the same",
+    industry: "other",
+    income: "prefer_not_to_say"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 15:51:42",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 32,
-    "What year were you born?": 1953,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94080,
-    "What is your employment status?": "retired",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 32,
+    year_born: 1953,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94080,
+    employment_status: "retired",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "other",
-    "What is your income?": "middle_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "About the same",
+    industry: "other",
+    income: "middle_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 09:43:45",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1985,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94607,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1985,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 94607,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "construction",
-    "What is your income?": "high_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Agree",
+    doing_financially: "Somewhat worse",
+    industry: "construction",
+    income: "high_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 12:57:08",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 495,
-    "What year were you born?": 1984,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "other",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95122,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 495,
+    year_born: 1984,
+    gender: "female",
+    ethnicity: "other",
+    zip_code: 95122,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Attended in-person gatherings outside of my household,,,,,,Maintained 3 feet distance between myself and other people outside of my household,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly better",
-    "What industry are you part of?": "agriculture_forestry_fishing_or_hunting",
-    "What is your income?": "high_ii"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Neutral",
+    doing_financially: "Significantly better",
+    industry: "agriculture_forestry_fishing_or_hunting",
+    income: "high_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 15:23:47",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 1991,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95148,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 4,
+    year_born: 1991,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 95148,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
-      "Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "finance_and_insurance",
-    "What is your income?": "middle_ii"
+    past_48_hours: "Did not leave my home for non-critical needs,",
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Somewhat worse",
+    industry: "finance_and_insurance",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 11:59:33",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1948,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95141,
-    "What is your employment status?": "retired",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1948,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 95141,
+    employment_status: "retired",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Shook hands with anyone outside of my household,,,,,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Neutral",
+    doing_financially: "About the same",
+    industry: "other",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 14:25:12",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 6,
-    "What year were you born?": 1950,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94539,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 6,
+    year_born: 1950,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 94539,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,Increased frequency of hand washing with soap,,Made an effort to avoid touching my eyes, nose and mouth,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "software",
-    "What is your income?": "high_iii"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Agree",
+    doing_financially: "About the same",
+    industry: "software",
+    income: "high_iii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 10:54:40",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 20,
-    "What year were you born?": 1993,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94124,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 20,
+    year_born: 1993,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94124,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Attended in-person gatherings outside of my household,,,Increased frequency of hand washing with soap,,,Maintained 3 feet distance between myself and other people outside of my household,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly disagree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?": "arts_entertainment_or_recreation",
-    "What is your income?": "middle_i"
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly disagree",
+    doing_financially: "Significantly worse",
+    industry: "arts_entertainment_or_recreation",
+    income: "middle_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 16:07:27",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 1982,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95123,
-    "What is your employment status?": "unemployed_looking",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 4,
+    year_born: 1982,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 95123,
+    employment_status: "unemployed_looking",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "hotel_and_food_services",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Neutral",
+    doing_financially: "Somewhat worse",
+    industry: "hotel_and_food_services",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 09:35:09",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 5,
-    "What year were you born?": 1986,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "latino",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94086,
-    "What is your employment status?": "unemployed_looking",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 5,
+    year_born: 1986,
+    gender: "female",
+    ethnicity: "latino",
+    zip_code: 94086,
+    employment_status: "unemployed_looking",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled pre-arranged travel plans,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "education",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "About the same",
+    industry: "education",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 13:17:40",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1977,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94606,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1977,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94606,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)": ",Ate at a restaurant",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "hotel_and_food_services",
-    "What is your income?": "prefer_not_to_say"
+    past_48_hours: ",Ate at a restaurant",
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Somewhat worse",
+    industry: "hotel_and_food_services",
+    income: "prefer_not_to_say"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 13:20:23",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1965,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94122,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1965,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 94122,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "arts_entertainment_or_recreation",
-    "What is your income?": "middle_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Neutral",
+    doing_financially: "About the same",
+    industry: "arts_entertainment_or_recreation",
+    income: "middle_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 16:01:21",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 2,
-    "What year were you born?": 1956,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94086,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 2,
+    year_born: 1956,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94086,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Increased frequency of hand washing with soap,,Made an effort to avoid touching my eyes, nose and mouth,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "other",
-    "What is your income?": "middle_i"
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Neutral",
+    doing_financially: "About the same",
+    industry: "other",
+    income: "middle_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 12:12:41",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 16,
-    "What year were you born?": 1946,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94133,
-    "What is your employment status?": "retired",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 16,
+    year_born: 1946,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94133,
+    employment_status: "retired",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,Increased frequency of hand washing with soap,,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "education",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Neutral",
+    doing_financially: "About the same",
+    industry: "education",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 15:54:46",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 1948,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95124,
-    "What is your employment status?": "retired",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 4,
+    year_born: 1948,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 95124,
+    employment_status: "retired",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "other",
-    "What is your income?": "high_ii"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "About the same",
+    industry: "other",
+    income: "high_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 16:05:05",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 15,
-    "What year were you born?": 1977,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94110,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 15,
+    year_born: 1977,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 94110,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Rescheduled or canceled pre-arranged travel plans,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,,Maintained 3 feet distance between myself and other people outside of my household,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "software",
-    "What is your income?": "prefer_not_to_say"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Somewhat worse",
+    industry: "software",
+    income: "prefer_not_to_say"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 15:38:38",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 24,
-    "What year were you born?": 1960,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95127,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 24,
+    year_born: 1960,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 95127,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "finance_and_insurance",
-    "What is your income?": "high_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Somewhat worse",
+    industry: "finance_and_insurance",
+    income: "high_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 16:26:47",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 1981,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94601,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 4,
+    year_born: 1981,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94601,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "legal_services",
-    "What is your income?": "high_ii"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Somewhat worse",
+    industry: "legal_services",
+    income: "high_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 15:48:28",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1950,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "multiracial",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94158,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "I don't know",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1950,
+    gender: "male",
+    ethnicity: "multiracial",
+    zip_code: 94158,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "I don't know",
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,,,,,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "education",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "About the same",
+    industry: "education",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 14:27:02",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1966,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95123,
-    "What is your employment status?": "homemaker",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1966,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 95123,
+    employment_status: "homemaker",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Disagree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "homemaker",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Disagree",
+    doing_financially: "About the same",
+    industry: "homemaker",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 17:10:51",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1945,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94103,
-    "What is your employment status?": "retired",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1945,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94103,
+    employment_status: "retired",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,,,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "About the same",
+    industry: "other",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 14:58:26",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1942,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94708,
-    "What is your employment status?": "retired",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1942,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94708,
+    employment_status: "retired",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Rescheduled or canceled pre-arranged travel plans,,,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat better",
-    "What industry are you part of?": "other",
-    "What is your income?": "high_ii"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Agree",
+    doing_financially: "Somewhat better",
+    industry: "other",
+    income: "high_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 15:05:40",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 1974,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95126,
-    "What is your employment status?": "self_employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 4,
+    year_born: 1974,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 95126,
+    employment_status: "self_employed",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?": "other",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Significantly worse",
+    industry: "other",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 17:11:25",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 30,
-    "What year were you born?": 1985,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95141,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 30,
+    year_born: 1985,
+    gender: "female",
+    ethnicity: "hispanic",
+    zip_code: 95141,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "health_care_and_social_assistance",
-    "What is your income?": "middle_i"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Neutral",
+    doing_financially: "About the same",
+    industry: "health_care_and_social_assistance",
+    income: "middle_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 16:32:08",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1960,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94502,
-    "What is your employment status?": "retired",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1960,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 94502,
+    employment_status: "retired",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth,,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "government_and_public_administration",
-    "What is your income?": "prefer_not_to_say"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Agree",
+    doing_financially: "Somewhat worse",
+    industry: "government_and_public_administration",
+    income: "prefer_not_to_say"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 15:10:26",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 1983,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94025,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 4,
+    year_born: 1983,
+    gender: "male",
+    ethnicity: "hispanic",
+    zip_code: 94025,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "retail",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Agree",
+    doing_financially: "Somewhat worse",
+    industry: "retail",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 16:09:36",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1974,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95121,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1974,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 95121,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,,,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat better",
-    "What industry are you part of?": "education",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Somewhat better",
+    industry: "education",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 16:13:08",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1982,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "prefer_not_to_say",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94043,
-    "What is your employment status?": "unemployed_looking",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1982,
+    gender: "female",
+    ethnicity: "prefer_not_to_say",
+    zip_code: 94043,
+    employment_status: "unemployed_looking",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Maintained 3 feet distance between myself and other people outside of my household,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Disagree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Disagree",
+    doing_financially: "Somewhat worse",
+    industry: "other",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 17:08:32",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 6,
-    "What year were you born?": 1955,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "black",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95124,
-    "What is your employment status?": "retired",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 6,
+    year_born: 1955,
+    gender: "female",
+    ethnicity: "black",
+    zip_code: 95124,
+    employment_status: "retired",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?": "retired",
-    "What is your income?": "middle_i"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Significantly worse",
+    industry: "retired",
+    income: "middle_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 16:18:49",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 6,
-    "What year were you born?": 1984,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94539,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 6,
+    year_born: 1984,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94539,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "software",
-    "What is your income?": "high_ii"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Agree",
+    doing_financially: "About the same",
+    industry: "software",
+    income: "high_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 10:09:08",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 30,
-    "What year were you born?": 1983,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95035,
-    "What is your employment status?": "homemaker",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "I don't know",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 30,
+    year_born: 1983,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 95035,
+    employment_status: "homemaker",
+    loved_ones_at_risk: "I don't know",
+    past_48_hours:
       "Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat better",
-    "What industry are you part of?": "other",
-    "What is your income?": "high_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Agree",
+    doing_financially: "Somewhat better",
+    industry: "other",
+    income: "high_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 16:03:07",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 3,
-    "What year were you born?": 1987,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95132,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 3,
+    year_born: 1987,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 95132,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "information_services_and_data",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "About the same",
+    industry: "information_services_and_data",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 15:34:25",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1965,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95126,
-    "What is your employment status?": "self_employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1965,
+    gender: "male",
+    ethnicity: "hispanic",
+    zip_code: 95126,
+    employment_status: "self_employed",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Attended in-person gatherings outside of my household,,Rescheduled or canceled pre-arranged travel plans,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,Ate at a restaurant",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "construction",
-    "What is your income?": "high_iii"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Agree",
+    doing_financially: "Somewhat worse",
+    industry: "construction",
+    income: "high_iii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 15:27:58",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1971,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94112,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1971,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94112,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "real_estate_rental_or_leasing",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Neutral",
+    doing_financially: "Somewhat worse",
+    industry: "real_estate_rental_or_leasing",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 14:13:17",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 6,
-    "What year were you born?": 1992,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94086,
-    "What is your employment status?": "unemployed_looking",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 6,
+    year_born: 1992,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 94086,
+    employment_status: "unemployed_looking",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Significantly worse",
+    industry: "other",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 13:54:52",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1969,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94010,
-    "What is your employment status?": "self_employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1969,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94010,
+    employment_status: "self_employed",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "personal_services",
-    "What is your income?": "high_iii"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "About the same",
+    industry: "personal_services",
+    income: "high_iii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 10:06:18",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 1999,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "multiracial",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94134,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "I don't know",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 4,
+    year_born: 1999,
+    gender: "male",
+    ethnicity: "multiracial",
+    zip_code: 94134,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "I don't know",
+    past_48_hours:
       "Increased frequency of hand washing with soap,,Made an effort to avoid touching my eyes, nose and mouth,,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?": "hotel_and_food_services",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Significantly worse",
+    industry: "hotel_and_food_services",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 17:03:29",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 16,
-    "What year were you born?": 1954,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94301,
-    "What is your employment status?": "retired",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 16,
+    year_born: 1954,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94301,
+    employment_status: "retired",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Increased frequency of hand washing with soap,,,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Agree",
+    doing_financially: "About the same",
+    industry: "other",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 15:00:41",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 18,
-    "What year were you born?": 1971,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94066,
-    "What is your employment status?": "self_employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 18,
+    year_born: 1971,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 94066,
+    employment_status: "self_employed",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "transportation_and_warehousing",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Agree",
+    doing_financially: "Somewhat worse",
+    industry: "transportation_and_warehousing",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 09:48:34",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1991,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94608,
-    "What is your employment status?": "homemaker",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1991,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 94608,
+    employment_status: "homemaker",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "homemaker",
-    "What is your income?": "prefer_not_to_say"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Agree",
+    doing_financially: "Somewhat worse",
+    industry: "homemaker",
+    income: "prefer_not_to_say"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 14:10:40",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 2002,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95117,
-    "What is your employment status?": "unemployed_looking",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 2002,
+    gender: "female",
+    ethnicity: "hispanic",
+    zip_code: 95117,
+    employment_status: "unemployed_looking",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled pre-arranged travel plans,Increased frequency of hand washing with soap,,,,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?": "other",
-    "What is your income?": "prefer_not_to_say"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Agree",
+    doing_financially: "Significantly worse",
+    industry: "other",
+    income: "prefer_not_to_say"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 13:53:36",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 6,
-    "What year were you born?": 1991,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "black",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95141,
-    "What is your employment status?": "homemaker",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 6,
+    year_born: 1991,
+    gender: "female",
+    ethnicity: "black",
+    zip_code: 95141,
+    employment_status: "homemaker",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,Increased frequency of hand washing with soap,,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "homemaker",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Agree",
+    doing_financially: "Somewhat worse",
+    industry: "homemaker",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 10:00:51",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 265,
-    "What year were you born?": 1981,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94110,
-    "What is your employment status?": "self_employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 265,
+    year_born: 1981,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94110,
+    employment_status: "self_employed",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "personal_services",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Somewhat worse",
+    industry: "personal_services",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 13:59:47",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1988,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94115,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1988,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94115,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Attended in-person gatherings outside of my household,,,,Cleaned surfaces with disinfecting wipes or sprays,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?": "real_estate_rental_or_leasing",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Neutral",
+    doing_financially: "Significantly worse",
+    industry: "real_estate_rental_or_leasing",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 13:33:14",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 20,
-    "What year were you born?": 1975,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95050,
-    "What is your employment status?": "other",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 20,
+    year_born: 1975,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 95050,
+    employment_status: "other",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,,Ate at a restaurant",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "education",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Agree",
+    doing_financially: "Somewhat worse",
+    industry: "education",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 12:18:01",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 3,
-    "What year were you born?": 1983,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95122,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 3,
+    year_born: 1983,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 95122,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Rescheduled or canceled pre-arranged travel plans,,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "About the same",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "About the same",
+    industry: "other",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 10:45:39",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 24,
-    "What year were you born?": 1977,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94107,
-    "What is your employment status?": "self_employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 24,
+    year_born: 1977,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94107,
+    employment_status: "self_employed",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Disagree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?": "arts_entertainment_or_recreation",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Disagree",
+    doing_financially: "Significantly worse",
+    industry: "arts_entertainment_or_recreation",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 10:53:50",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 5,
-    "What year were you born?": 1988,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94610,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 5,
+    year_born: 1988,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 94610,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Shook hands with anyone outside of my household,Attended in-person gatherings of 50 people,,Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,,,,,,Ate at a restaurant",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Somewhat worse",
-    "What industry are you part of?": "retail",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Agree",
+    doing_financially: "Somewhat worse",
+    industry: "retail",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 10:42:27",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 6,
-    "What year were you born?": 1980,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95122,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 6,
+    year_born: 1980,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 95122,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?": "hotel_and_food_services",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Neutral",
+    doing_financially: "Significantly worse",
+    industry: "hotel_and_food_services",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 14:10:36",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 25,
-    "What year were you born?": 1977,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94086,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 25,
+    year_born: 1977,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94086,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,Increased frequency of hand washing with soap,Cleaned surfaces with disinfecting wipes or sprays,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly worse",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "Significantly worse",
+    industry: "other",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish2",
     Timestamp: "2020-03-20 14:50:19",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 1960,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94109,
-    "What is your employment status?": "employed_for_wages",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 4,
+    year_born: 1960,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94109,
+    employment_status: "employed_for_wages",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Increased frequency of hand washing with soap,,Made an effort to avoid touching my eyes, nose and mouth,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?":
-      "Significantly better",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Agree",
+    doing_financially: "Significantly better",
+    industry: "other",
+    income: "lower_ii"
   },
   {
     Datasource: "Google1",
     Timestamp: "3/15/20 20:38",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 2,
-    "What year were you born?": 1994,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 98075,
-    "What is your employment status?": "Employed part-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 2,
+    year_born: 1994,
+    gender: "Female",
+    ethnicity: "Asian",
+    zip_code: 98075,
+    employment_status: "Employed part-time",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
-      "Tried to avoid touching your eyes, nose, and mouth",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    past_48_hours: "Tried to avoid touching your eyes, nose, and mouth",
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/15/20 20:39",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 2,
-    "What year were you born?": 1996,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 2138,
-    "What is your employment status?": "Not employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 2,
+    year_born: 1996,
+    gender: "Male",
+    ethnicity: "Asian",
+    zip_code: 2138,
+    employment_status: "Not employed",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Participated in non-critical in-person gatherings (e.g. birthday party, dinner out, routine doctor's appointment), Practiced social distancing: maintaining 6 feet distance between yourself and others outside of your household, Did not leave my home for non-critical things, Cleaned surfaces with disinfecting wipes or sprays, Tried to avoid touching your eyes, nose, and mouth, Increased hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/15/20 23:12",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 18,
-    "What year were you born?": 1984,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94107,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 18,
+    year_born: 1984,
+    gender: "Male",
+    ethnicity: "Asian",
+    zip_code: 94107,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person events and appointments, Participated in non-critical in-person gatherings (e.g. birthday party, dinner out, routine doctor's appointment), Ate at a restaurant, Tried to avoid touching your eyes, nose, and mouth, Increased hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 0:07",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 2,
-    "What year were you born?": 1992,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Prefer not to say",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94041,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 2,
+    year_born: 1992,
+    gender: "Female",
+    ethnicity: "Prefer not to say",
+    zip_code: 94041,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person events and appointments, Practiced social distancing: maintaining 6 feet distance between yourself and others outside of your household, Ate at a restaurant, Cleaned surfaces with disinfecting wipes or sprays, Tried to avoid touching your eyes, nose, and mouth, Increased hand washing with soap, Did not shake hands",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 2:11",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 50,
-    "What year were you born?": 1920,
-    "What is your gender?": "Other",
-    "What is your ethnicity?": "Asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 900,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 50,
+    year_born: 1920,
+    gender: "Other",
+    ethnicity: "Asian",
+    zip_code: 900,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "No, Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Ate at a restaurant, Attended in-person gatherings of 50 people, Attended in-person gatherings outside of my household, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 5:10",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1990,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian, Asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 96826,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1990,
+    gender: "Female",
+    ethnicity: "Caucasian, Asian",
+    zip_code: 96826,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Attended in-person gatherings of 50 people, Cleaned surfaces with disinfecting wipes or sprays, Attended in-person gatherings outside of my household, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 7:10",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 6,
-    "What year were you born?": 1991,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 39759,
-    "What is your employment status?": "Student",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 6,
+    year_born: 1991,
+    gender: "Female",
+    ethnicity: "Asian",
+    zip_code: 39759,
+    employment_status: "Student",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 7:25",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1990,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 22003,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1990,
+    gender: "Female",
+    ethnicity: "Caucasian",
+    zip_code: 22003,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 9:41",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1995,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 90025,
-    "What is your employment status?": "Employed part-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1995,
+    gender: "Female",
+    ethnicity: "Caucasian",
+    zip_code: 90025,
+    employment_status: "Employed part-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 9:46",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 5,
-    "What year were you born?": 1992,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 91406,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 5,
+    year_born: 1992,
+    gender: "Female",
+    ethnicity: "Asian",
+    zip_code: 91406,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Attended in-person gatherings of 50 people, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Attended in-person gatherings outside of my household, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 9:49",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1993,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian, Other",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 2111,
-    "What is your employment status?": "Student",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1993,
+    gender: "Male",
+    ethnicity: "Asian, Other",
+    zip_code: 2111,
+    employment_status: "Student",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Ate at a restaurant, Made an effort to avoid touching my eyes, nose and mouth, Attended in-person gatherings outside of my household, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 10:10",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1994,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Other",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94553,
-    "What is your employment status?": "Employed part-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1994,
+    gender: "Female",
+    ethnicity: "Other",
+    zip_code: 94553,
+    employment_status: "Employed part-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Made an effort to avoid touching my eyes, nose and mouth, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 10:30",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 20,
-    "What year were you born?": 1994,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?":
-      "London, UK",
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 20,
+    year_born: 1994,
+    gender: "Female",
+    ethnicity: "Caucasian",
+    zip_code: "London, UK",
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 11:29",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1990,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 10003,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1990,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 10003,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Ate at a restaurant, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 11:34",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 18,
-    "What year were you born?": 1994,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94550,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 18,
+    year_born: 1994,
+    gender: "Female",
+    ethnicity: "Caucasian",
+    zip_code: 94550,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 12:02",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1988,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94122,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1988,
+    gender: "Male",
+    ethnicity: "Asian",
+    zip_code: 94122,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Ate at a restaurant, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Attended in-person gatherings outside of my household, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 12:59",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 50,
-    "What year were you born?": 1989,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian, Asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94107,
-    "What is your employment status?": "Not employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 50,
+    year_born: 1989,
+    gender: "Male",
+    ethnicity: "Caucasian, Asian",
+    zip_code: 94107,
+    employment_status: "Not employed",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 13:30",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1990,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94301,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1990,
+    gender: "Male",
+    ethnicity: "Asian",
+    zip_code: 94301,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Ate at a restaurant, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Attended in-person gatherings outside of my household, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 13:42",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 40,
-    "What year were you born?": 1988,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 22901,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 40,
+    year_born: 1988,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 22901,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc), I don't know",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 13:46",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 16,
-    "What year were you born?": 1989,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94117,
-    "What is your employment status?": "Not employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 16,
+    year_born: 1989,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 94117,
+    employment_status: "Not employed",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 13:46",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1988,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94610,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1988,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 94610,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 13:46",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 20,
-    "What year were you born?": 1995,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 10013,
-    "What is your employment status?": "Self-employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 20,
+    year_born: 1995,
+    gender: "Female",
+    ethnicity: "Asian",
+    zip_code: 10013,
+    employment_status: "Self-employed",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 13:50",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1976,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 98133,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1976,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 98133,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 13:54",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1985,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95819,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1985,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 95819,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 13:57",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1989,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 75230,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1989,
+    gender: "Female",
+    ethnicity: "Caucasian",
+    zip_code: 75230,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 13:57",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1992,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94103,
-    "What is your employment status?": "Self-employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1992,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94103,
+    employment_status: "Self-employed",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 13:59",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 16,
-    "What year were you born?": 1987,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 98133,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 16,
+    year_born: 1987,
+    gender: "Female",
+    ethnicity: "Caucasian",
+    zip_code: 98133,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 14:03",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1991,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94118,
-    "What is your employment status?": "Not employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1991,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94118,
+    employment_status: "Not employed",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 14:04",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 15,
-    "What year were you born?": 1990,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 2144,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 15,
+    year_born: 1990,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 2144,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Attended in-person gatherings outside of my household, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 14:04",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 6,
-    "What year were you born?": 1958,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 20783,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 6,
+    year_born: 1958,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 20783,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 14:07",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 6,
-    "What year were you born?": 1995,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian, Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 83002,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 6,
+    year_born: 1995,
+    gender: "Male",
+    ethnicity: "Caucasian, Asian/Asian American",
+    zip_code: 83002,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 14:19",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 20,
-    "What year were you born?": 1989,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Prefer not to say",
-    "What is the zip code (i.e. postal code) of the place you currently live in?":
-      "Nairobi, Kenya",
-    "What is your employment status?": "Self-employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 20,
+    year_born: 1989,
+    gender: "Female",
+    ethnicity: "Prefer not to say",
+    zip_code: "Nairobi, Kenya",
+    employment_status: "Self-employed",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 14:19",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1977,
-    "What is your gender?": "Prefer not to say",
-    "What is your ethnicity?": "Prefer not to say",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95050,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1977,
+    gender: "Prefer not to say",
+    ethnicity: "Prefer not to say",
+    zip_code: 95050,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 14:24",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 16,
-    "What year were you born?": 1973,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 98116,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 16,
+    year_born: 1973,
+    gender: "Female",
+    ethnicity: "Caucasian",
+    zip_code: 98116,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 14:25",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1981,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94025,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1981,
+    gender: "Female",
+    ethnicity: "Caucasian",
+    zip_code: 94025,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 14:26",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 26,
-    "What year were you born?": 1986,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94066,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 26,
+    year_born: 1986,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94066,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 14:27",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 6,
-    "What year were you born?": 1989,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 30306,
-    "What is your employment status?": "Self-employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 6,
+    year_born: 1989,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 30306,
+    employment_status: "Self-employed",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 14:29",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1979,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94114,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1979,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 94114,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 14:32",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 16,
-    "What year were you born?": 1982,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian, Hispanic/Latinx",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 35801,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 16,
+    year_born: 1982,
+    gender: "Female",
+    ethnicity: "Caucasian, Hispanic/Latinx",
+    zip_code: 35801,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Ate at a restaurant, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Attended in-person gatherings outside of my household, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 14:39",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1984,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94102,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1984,
+    gender: "Male",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94102,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 14:39",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1990,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Hispanic/Latinx",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 2163,
-    "What is your employment status?": "Student",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1990,
+    gender: "Male",
+    ethnicity: "Hispanic/Latinx",
+    zip_code: 2163,
+    employment_status: "Student",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Attended in-person gatherings outside of my household, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 14:40",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1991,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Hispanic/Latinx",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94089,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1991,
+    gender: "Male",
+    ethnicity: "Hispanic/Latinx",
+    zip_code: 94089,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 14:41",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 26,
-    "What year were you born?": 1985,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 98052,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 26,
+    year_born: 1985,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 98052,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 14:47",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 16,
-    "What year were you born?": 1976,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94133,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 16,
+    year_born: 1976,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 94133,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 15:02",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 32,
-    "What year were you born?": 1975,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 98108,
-    "What is your employment status?": "Employed part-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 32,
+    year_born: 1975,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 98108,
+    employment_status: "Employed part-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Attended in-person gatherings outside of my household, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 15:04",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 20,
-    "What year were you born?": 1960,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 84025,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 20,
+    year_born: 1960,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 84025,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 15:12",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 20,
-    "What year were you born?": 1994,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94087,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 20,
+    year_born: 1994,
+    gender: "Male",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94087,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Ate at a restaurant, Made an effort to avoid touching my eyes, nose and mouth, Attended in-person gatherings outside of my household, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 15:18",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1955,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94010,
-    "What is your employment status?": "Not employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1955,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 94010,
+    employment_status: "Not employed",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 15:31",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 16,
-    "What year were you born?": 1992,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian, Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 10007,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 16,
+    year_born: 1992,
+    gender: "Female",
+    ethnicity: "Caucasian, Asian/Asian American",
+    zip_code: 10007,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 15:52",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 20,
-    "What year were you born?": 1970,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 63090,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 20,
+    year_born: 1970,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 63090,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 15:54",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1964,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 98103,
-    "What is your employment status?": "Self-employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1964,
+    gender: "Female",
+    ethnicity: "Caucasian",
+    zip_code: 98103,
+    employment_status: "Self-employed",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 15:59",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1988,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94133,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1988,
+    gender: "Female",
+    ethnicity: "Caucasian",
+    zip_code: 94133,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 16:05",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1989,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 1238,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1989,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 1238,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 16:33",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 52,
-    "What year were you born?": 1986,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94114,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 52,
+    year_born: 1986,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 94114,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 16:42",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 24,
-    "What year were you born?": 1988,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94109,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 24,
+    year_born: 1988,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 94109,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Ate at a restaurant, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 16:44",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1993,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95112,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
-      "Attended in-person gatherings outside of my household",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    weeks_before_normal: 12,
+    year_born: 1993,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 95112,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "No",
+    past_48_hours: "Attended in-person gatherings outside of my household",
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 16:53",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 16,
-    "What year were you born?": 1990,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 98109,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 16,
+    year_born: 1990,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 98109,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Attended in-person gatherings outside of my household, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 16:53",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1986,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94560,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1986,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94560,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 17:03",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1990,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94301,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1990,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94301,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 17:10",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 20,
-    "What year were you born?": 1968,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Hispanic/Latinx",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 98117,
-    "What is your employment status?": "Prefer not to say",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 20,
+    year_born: 1968,
+    gender: "Female",
+    ethnicity: "Hispanic/Latinx",
+    zip_code: 98117,
+    employment_status: "Prefer not to say",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 17:15",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 25,
-    "What year were you born?": 1979,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 98121,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 25,
+    year_born: 1979,
+    gender: "Male",
+    ethnicity: "Asian/Asian American",
+    zip_code: 98121,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 17:21",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1967,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 98117,
-    "What is your employment status?": "Self-employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1967,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 98117,
+    employment_status: "Self-employed",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 17:27",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1994,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94025,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1994,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94025,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 17:27",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1987,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 11211,
-    "What is your employment status?": "Self-employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1987,
+    gender: "Female",
+    ethnicity: "Caucasian",
+    zip_code: 11211,
+    employment_status: "Self-employed",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Ate at a restaurant, Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 17:43",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 30,
-    "What year were you born?": 1989,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 20010,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 30,
+    year_born: 1989,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 20010,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Ate at a restaurant, Maintained 3 feet distance between myself and other people outside of my household, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 17:56",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 16,
-    "What year were you born?": 1984,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 98034,
-    "What is your employment status?": "Not employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 16,
+    year_born: 1984,
+    gender: "Female",
+    ethnicity: "Caucasian",
+    zip_code: 98034,
+    employment_status: "Not employed",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 18:14",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1984,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 52001,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1984,
+    gender: "Female",
+    ethnicity: "Caucasian",
+    zip_code: 52001,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Ate at a restaurant, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 18:19",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 20,
-    "What year were you born?": 1971,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94301,
-    "What is your employment status?": "Self-employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 20,
+    year_born: 1971,
+    gender: "Female",
+    ethnicity: "Caucasian",
+    zip_code: 94301,
+    employment_status: "Self-employed",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 18:52",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1989,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian, Hispanic/Latinx",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 19130,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1989,
+    gender: "Male",
+    ethnicity: "Caucasian, Hispanic/Latinx",
+    zip_code: 19130,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Ate at a restaurant, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 19:29",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1989,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94040,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1989,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94040,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 19:57",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1985,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 11211,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1985,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 11211,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Attended in-person gatherings outside of my household, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 20:44",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 52,
-    "What year were you born?": 1994,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94107,
-    "What is your employment status?": "Self-employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 52,
+    year_born: 1994,
+    gender: "Male",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94107,
+    employment_status: "Self-employed",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Ate at a restaurant, Did not leave my home for non-critical needs, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Attended in-person gatherings outside of my household, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 21:02",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1981,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94560,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1981,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94560,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/16/20 23:50",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1992,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 75074,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1992,
+    gender: "Male",
+    ethnicity: "Asian/Asian American",
+    zip_code: 75074,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 0:08",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1993,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 98122,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1993,
+    gender: "Male",
+    ethnicity: "Asian/Asian American",
+    zip_code: 98122,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth, Attended in-person gatherings outside of my household, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 1:05",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 6,
-    "What year were you born?": 1983,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?":
-      "Spain",
-    "What is your employment status?": "Not employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 6,
+    year_born: 1983,
+    gender: "Female",
+    ethnicity: "Caucasian",
+    zip_code: "Spain",
+    employment_status: "Not employed",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
-      "Did not leave my home for non-critical needs",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    past_48_hours: "Did not leave my home for non-critical needs",
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 7:55",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 6,
-    "What year were you born?": 1983,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94560,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 6,
+    year_born: 1983,
+    gender: "Male",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94560,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 8:30",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1987,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94536,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1987,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 94536,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 8:37",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1947,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 20003,
-    "What is your employment status?": "Not employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1947,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 20003,
+    employment_status: "Not employed",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 8:54",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 52,
-    "What year were you born?": 1992,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94304,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 52,
+    year_born: 1992,
+    gender: "Male",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94304,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Ate at a restaurant, Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 9:17",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1975,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 98133,
-    "What is your employment status?": "Self-employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1975,
+    gender: "Female",
+    ethnicity: "Caucasian",
+    zip_code: 98133,
+    employment_status: "Self-employed",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 9:21",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1965,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 98103,
-    "What is your employment status?": "Self-employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1965,
+    gender: "Female",
+    ethnicity: "Caucasian",
+    zip_code: 98103,
+    employment_status: "Self-employed",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 9:39",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 16,
-    "What year were you born?": 1987,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?":
-      "Paris, France",
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 16,
+    year_born: 1987,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: "Paris, France",
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 9:45",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1985,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?":
-      "Paris, France",
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1985,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: "Paris, France",
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 10:00",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1974,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 8540,
-    "What is your employment status?": "Employed part-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1974,
+    gender: "Female",
+    ethnicity: "Caucasian",
+    zip_code: 8540,
+    employment_status: "Employed part-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 10:39",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1980,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian, Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 98033,
-    "What is your employment status?": "Not employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1980,
+    gender: "Male",
+    ethnicity: "Caucasian, Asian/Asian American",
+    zip_code: 98033,
+    employment_status: "Not employed",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 10:44",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1987,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 98122,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1987,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 98122,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 10:53",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 52,
-    "What year were you born?": 1978,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 11795,
-    "What is your employment status?": "Employed part-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 52,
+    year_born: 1978,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 11795,
+    employment_status: "Employed part-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 10:55",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1978,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 10023,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1978,
+    gender: "Female",
+    ethnicity: "Caucasian",
+    zip_code: 10023,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 11:02",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 7,
-    "What year were you born?": 1975,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94555,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 7,
+    year_born: 1975,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 94555,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Made an effort to avoid touching my eyes, nose and mouth, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 11:04",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 16,
-    "What year were you born?": 1982,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian, Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 98033,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 16,
+    year_born: 1982,
+    gender: "Female",
+    ethnicity: "Caucasian, Asian/Asian American",
+    zip_code: 98033,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 11:07",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 30,
-    "What year were you born?": 1981,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94110,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 30,
+    year_born: 1981,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 94110,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 11:17",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1977,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 20853,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1977,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 20853,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 11:19",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 25,
-    "What year were you born?": 1977,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95054,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 25,
+    year_born: 1977,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 95054,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 11:35",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1982,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 97201,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1982,
+    gender: "Female",
+    ethnicity: "Caucasian",
+    zip_code: 97201,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 11:56",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1981,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?":
-      "toronto, canada",
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1981,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: "toronto, canada",
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 11:57",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 13,
-    "What year were you born?": 1983,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94041,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 13,
+    year_born: 1983,
+    gender: "Male",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94041,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 12:00",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 16,
-    "What year were you born?": 1980,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 20910,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 16,
+    year_born: 1980,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 20910,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 12:13",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 20,
-    "What year were you born?": 1984,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 2906,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 20,
+    year_born: 1984,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 2906,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 12:21",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1953,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 20781,
-    "What is your employment status?": "Employed part-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1953,
+    gender: "Female",
+    ethnicity: "Caucasian",
+    zip_code: 20781,
+    employment_status: "Employed part-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 13:26",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 18,
-    "What year were you born?": 1983,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian, Jewish",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94103,
-    "What is your employment status?": "Self-employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 18,
+    year_born: 1983,
+    gender: "Male",
+    ethnicity: "Caucasian, Jewish",
+    zip_code: 94103,
+    employment_status: "Self-employed",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 13:34",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 7,
-    "What year were you born?": 1989,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 10010,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 7,
+    year_born: 1989,
+    gender: "Male",
+    ethnicity: "Asian/Asian American",
+    zip_code: 10010,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 13:35",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1991,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Hispanic/Latinx",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94112,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "I don't know",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1991,
+    gender: "Female",
+    ethnicity: "Hispanic/Latinx",
+    zip_code: 94112,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "I don't know",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 14:47",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 26,
-    "What year were you born?": 1981,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94041,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 26,
+    year_born: 1981,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 94041,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 14:53",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 5,
-    "What year were you born?": 1993,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94103,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 5,
+    year_born: 1993,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94103,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 15:31",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 16,
-    "What year were you born?": 1988,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94123,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 16,
+    year_born: 1988,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 94123,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 15:56",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1982,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 89102,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1982,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 89102,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 16:47",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 20,
-    "What year were you born?": 1987,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94158,
-    "What is your employment status?": "Self-employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 20,
+    year_born: 1987,
+    gender: "Male",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94158,
+    employment_status: "Self-employed",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Made an effort to avoid touching my eyes, nose and mouth, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 16:52",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 9,
-    "What year were you born?": 1990,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94110,
-    "What is your employment status?": "Self-employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 9,
+    year_born: 1990,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 94110,
+    employment_status: "Self-employed",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Made an effort to avoid touching my eyes, nose and mouth, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 17:00",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 18,
-    "What year were you born?": 1985,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94043,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 18,
+    year_born: 1985,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 94043,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 17:47",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 30,
-    "What year were you born?": 1981,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Prefer not to say",
-    "What is the zip code (i.e. postal code) of the place you currently live in?":
-      "South Korea",
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 30,
+    year_born: 1981,
+    gender: "Male",
+    ethnicity: "Prefer not to say",
+    zip_code: "South Korea",
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 18:07",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 16,
-    "What year were you born?": 1985,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 11217,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 16,
+    year_born: 1985,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 11217,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 18:09",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 2,
-    "What year were you born?": 1979,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 80211,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 2,
+    year_born: 1979,
+    gender: "Female",
+    ethnicity: "Caucasian",
+    zip_code: 80211,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Attended in-person gatherings outside of my household, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 18:21",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1979,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 20012,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1979,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 20012,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 19:02",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 110,
-    "What year were you born?": 1980,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 98028,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 110,
+    year_born: 1980,
+    gender: "Female",
+    ethnicity: "Caucasian",
+    zip_code: 98028,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 20:06",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1937,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 92653,
-    "What is your employment status?": "Not employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "I don't know",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1937,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 92653,
+    employment_status: "Not employed",
+    loved_ones_at_risk: "I don't know",
+    past_48_hours:
       "Ate at a restaurant, Maintained 3 feet distance between myself and other people outside of my household, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 21:45",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1991,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 92108,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1991,
+    gender: "Male",
+    ethnicity: "Asian/Asian American",
+    zip_code: 92108,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/17/20 22:58",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 3,
-    "What year were you born?": 1974,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 97221,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 3,
+    year_born: 1974,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 97221,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Rescheduled or canceled pre-arranged travel plans, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/18/20 5:33",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1984,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 2129,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1984,
+    gender: "Female",
+    ethnicity: "Caucasian",
+    zip_code: 2129,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/18/20 8:25",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 6,
-    "What year were you born?": 1990,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94086,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 6,
+    year_born: 1990,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94086,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/18/20 8:41",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 7,
-    "What year were you born?": 1985,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94107,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 7,
+    year_born: 1985,
+    gender: "Male",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94107,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/18/20 8:43",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1988,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94086,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1988,
+    gender: "Male",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94086,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/18/20 9:25",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 1988,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 80303,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 4,
+    year_born: 1988,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 80303,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/18/20 9:25",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 52,
-    "What year were you born?": 1979,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Caucasian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94002,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 52,
+    year_born: 1979,
+    gender: "Male",
+    ethnicity: "Caucasian",
+    zip_code: 94002,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/18/20 10:13",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1983,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94114,
-    "What is your employment status?": "Self-employed",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1983,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94114,
+    employment_status: "Self-employed",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Rescheduled or canceled pre-arranged travel plans",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/18/20 12:17",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 16,
-    "What year were you born?": 1977,
-    "What is your gender?": "Male",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95014,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 16,
+    year_born: 1977,
+    gender: "Male",
+    ethnicity: "Asian/Asian American",
+    zip_code: 95014,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Rescheduled or canceled pre-arranged travel plans, Increased frequency of hand washing with soap",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Google1",
     Timestamp: "3/18/20 15:02",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1990,
-    "What is your gender?": "Female",
-    "What is your ethnicity?": "Asian/Asian American",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94115,
-    "What is your employment status?": "Employed full-time",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1990,
+    gender: "Female",
+    ethnicity: "Asian/Asian American",
+    zip_code: 94115,
+    employment_status: "Employed full-time",
+    loved_ones_at_risk:
       "Yes, due to their age (60+), Yes, due to existing medical conditions (Diabetes, heart disease, lung disease), Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs, Maintained 3 feet distance between myself and other people outside of my household, Made an effort to avoid touching my eyes, nose and mouth, Cleaned surfaces with disinfecting wipes or sprays, Increased frequency of hand washing with soap, Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners)",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "",
-    "What is your income?": ""
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "",
+    doing_financially: "",
+    industry: "",
+    income: ""
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 16:56:05",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 24,
-    "What year were you born?": 1994,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94114,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 24,
+    year_born: 1994,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94114,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,Did not leave my home for non-critical needs,,Rescheduled or canceled pre-arranged travel plans,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "other",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 10:19:11",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 20,
-    "What year were you born?": 1983,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "black",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95117,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
-      "Did not leave my home for non-critical needs,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "homemaker",
-    "What is your income?": "lower_i"
+    weeks_before_normal: 20,
+    year_born: 1983,
+    gender: "female",
+    ethnicity: "black",
+    zip_code: 95117,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours: "Did not leave my home for non-critical needs,,,,",
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "homemaker",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 15:11:35",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 2002,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94536,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 2002,
+    gender: "female",
+    ethnicity: "hispanic",
+    zip_code: 94536,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "construction",
-    "What is your income?": "prefer_not_to_say"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "construction",
+    income: "prefer_not_to_say"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 13:14:49",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1950,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94043,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
-      "Did not leave my home for non-critical needs,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "education",
-    "What is your income?": "lower_i"
+    weeks_before_normal: 8,
+    year_born: 1950,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94043,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours: "Did not leave my home for non-critical needs,,,,",
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "education",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 14:39:29",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 3,
-    "What year were you born?": 1956,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95141,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 3,
+    year_born: 1956,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 95141,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Disagree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "military",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Disagree",
+    doing_financially: "",
+    industry: "military",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 09:30:11",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 5,
-    "What year were you born?": 1995,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95148,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 5,
+    year_born: 1995,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 95148,
+    employment_status: "",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,Did not leave my home for non-critical needs,,Rescheduled or canceled pre-arranged travel plans,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "education",
-    "What is your income?": "prefer_not_to_say"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "education",
+    income: "prefer_not_to_say"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 10:02:02",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 5,
-    "What year were you born?": 1996,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95129,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 5,
+    year_born: 1996,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 95129,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),,",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Ate at a restaurant,,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,,,Rescheduled or canceled pre-arranged travel plans,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "health_care_and_social_assistance",
-    "What is your income?": "middle_i"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "health_care_and_social_assistance",
+    income: "middle_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 16:18:10",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 24,
-    "What year were you born?": 1986,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94102,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 24,
+    year_born: 1986,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 94102,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),,Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,Did not leave my home for non-critical needs,,Rescheduled or canceled pre-arranged travel plans,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "software",
-    "What is your income?": "middle_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "software",
+    income: "middle_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 16:41:31",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1975,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94109,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1975,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94109,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "education",
-    "What is your income?": "high_ii"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "education",
+    income: "high_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 14:53:05",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 100,
-    "What year were you born?": 1963,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94114,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
-      "Rescheduled or canceled pre-arranged travel plans,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "construction",
-    "What is your income?": "lower_i"
+    weeks_before_normal: 100,
+    year_born: 1963,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94114,
+    employment_status: "",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours: "Rescheduled or canceled pre-arranged travel plans,,",
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "construction",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 14:41:56",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 7,
-    "What year were you born?": 1982,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94536,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 7,
+    year_born: 1982,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 94536,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "education",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "education",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 15:36:27",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 24,
-    "What year were you born?": 1966,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94608,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 24,
+    year_born: 1966,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94608,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,,Increased frequency of hand washing with soap,,,Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "other",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 16:54:29",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 3,
-    "What year were you born?": 1992,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95131,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 3,
+    year_born: 1992,
+    gender: "female",
+    ethnicity: "hispanic",
+    zip_code: 95131,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Disagree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "middle_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Disagree",
+    doing_financially: "",
+    industry: "other",
+    income: "middle_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 16:59:00",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 94,
-    "What year were you born?": 1954,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94015,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 94,
+    year_born: 1954,
+    gender: "female",
+    ethnicity: "hispanic",
+    zip_code: 94015,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "other",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 15:16:41",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 6,
-    "What year were you born?": 1971,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94043,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 6,
+    year_born: 1971,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94043,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
-      "Ate at a restaurant,,,,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Disagree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "homemaker",
-    "What is your income?": "high_iii"
+    past_48_hours: "Ate at a restaurant,,,,,,,,",
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Disagree",
+    doing_financially: "",
+    industry: "homemaker",
+    income: "high_iii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 16:50:01",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 16,
-    "What year were you born?": 1984,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95126,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 16,
+    year_born: 1984,
+    gender: "male",
+    ethnicity: "hispanic",
+    zip_code: 95126,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "software",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "software",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 13:31:18",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 1952,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "black",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95141,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 4,
+    year_born: 1952,
+    gender: "male",
+    ethnicity: "black",
+    zip_code: 95141,
+    employment_status: "",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "other",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 15:45:04",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1977,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95117,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1977,
+    gender: "male",
+    ethnicity: "hispanic",
+    zip_code: 95117,
+    employment_status: "",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,Did not leave my home for non-critical needs,Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "transportation_and_warehousing",
-    "What is your income?": "middle_i"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "transportation_and_warehousing",
+    income: "middle_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 13:50:06",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 20,
-    "What year were you born?": 1966,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95112,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 20,
+    year_born: 1966,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 95112,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "homemaker",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Neutral",
+    doing_financially: "",
+    industry: "homemaker",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 15:42:07",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1959,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95112,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "I don't know",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1959,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 95112,
+    employment_status: "",
+    loved_ones_at_risk: "I don't know",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,Ate at a restaurant,,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Neutral",
+    doing_financially: "",
+    industry: "other",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 14:31:04",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1964,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94114,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1964,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 94114,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "homemaker",
-    "What is your income?": "high_iii"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "homemaker",
+    income: "high_iii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 13:08:00",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1993,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94015,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1993,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94015,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,Did not leave my home for non-critical needs,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "other",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 16:27:46",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 1980,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94602,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 4,
+    year_born: 1980,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94602,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,Ate at a restaurant,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,,Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "transportation_and_warehousing",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "transportation_and_warehousing",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 14:40:33",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 16,
-    "What year were you born?": 1960,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "multiracial",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94601,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 16,
+    year_born: 1960,
+    gender: "female",
+    ethnicity: "multiracial",
+    zip_code: 94601,
+    employment_status: "",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,Did not leave my home for non-critical needs,,Rescheduled or canceled pre-arranged travel plans,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "education",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "education",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 16:48:26",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 24,
-    "What year were you born?": 1961,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94109,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 24,
+    year_born: 1961,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94109,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,Ate at a restaurant,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "software",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "software",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 13:44:48",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 18,
-    "What year were you born?": 1998,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95117,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 18,
+    year_born: 1998,
+    gender: "female",
+    ethnicity: "hispanic",
+    zip_code: 95117,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,Did not leave my home for non-critical needs,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "Neutral",
+    doing_financially: "",
+    industry: "other",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 15:33:54",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 1994,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95141,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 4,
+    year_born: 1994,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 95141,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,Ate at a restaurant,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,,,,Attended in-person gatherings outside of my household,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Disagree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "wholesale",
-    "What is your income?": "middle_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Disagree",
+    doing_financially: "",
+    industry: "wholesale",
+    income: "middle_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 15:28:43",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 26,
-    "What year were you born?": 1980,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94132,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 26,
+    year_born: 1980,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 94132,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
-      "Did not leave my home for non-critical needs,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "information_services_and_data",
-    "What is your income?": "middle_i"
+    past_48_hours: "Did not leave my home for non-critical needs,,,,",
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "information_services_and_data",
+    income: "middle_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 11:12:33",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 30,
-    "What year were you born?": 1971,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94124,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 30,
+    year_born: 1971,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94124,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Ate at a restaurant,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,,,,Attended in-person gatherings outside of my household,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Disagree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "middle_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Disagree",
+    doing_financially: "",
+    industry: "other",
+    income: "middle_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 16:54:11",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 7,
-    "What year were you born?": 1996,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94538,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 7,
+    year_born: 1996,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 94538,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,Did not leave my home for non-critical needs,,,Attended in-person gatherings outside of my household,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Disagree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "software",
-    "What is your income?": "middle_i"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Disagree",
+    doing_financially: "",
+    industry: "software",
+    income: "middle_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 16:42:27",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1982,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94603,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "I don't know",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1982,
+    gender: "male",
+    ethnicity: "hispanic",
+    zip_code: 94603,
+    employment_status: "",
+    loved_ones_at_risk: "I don't know",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "middle_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Neutral",
+    doing_financially: "",
+    industry: "other",
+    income: "middle_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 16:55:13",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 55,
-    "What year were you born?": 2001,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95117,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "I don't know",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 55,
+    year_born: 2001,
+    gender: "female",
+    ethnicity: "hispanic",
+    zip_code: 95117,
+    employment_status: "",
+    loved_ones_at_risk: "I don't know",
+    past_48_hours:
       "Ate at a restaurant,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,,,,Attended in-person gatherings outside of my household,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly disagree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "retail",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "Strongly disagree",
+    doing_financially: "",
+    industry: "retail",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 11:10:26",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 1993,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94110,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 4,
+    year_born: 1993,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 94110,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,Ate at a restaurant,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,,,Rescheduled or canceled pre-arranged travel plans,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "Neutral",
+    doing_financially: "",
+    industry: "other",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 09:46:07",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 14,
-    "What year were you born?": 2000,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94112,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 14,
+    year_born: 2000,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 94112,
+    employment_status: "",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,Ate at a restaurant,,Increased frequency of hand washing with soap,,,Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,Attended in-person gatherings outside of my household,Attended in-person gatherings of 50 people",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "personal_services",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "personal_services",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 16:57:50",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 2,
-    "What year were you born?": 1985,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95112,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "I don't know",
-    "In the past 48 hours, I... (check all that apply)":
-      "Ate at a restaurant,,,,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "construction",
-    "What is your income?": "middle_ii"
+    weeks_before_normal: 2,
+    year_born: 1985,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 95112,
+    employment_status: "",
+    loved_ones_at_risk: "I don't know",
+    past_48_hours: "Ate at a restaurant,,,,,,,,",
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Neutral",
+    doing_financially: "",
+    industry: "construction",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 16:38:39",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 6,
-    "What year were you born?": 1984,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94601,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 6,
+    year_born: 1984,
+    gender: "male",
+    ethnicity: "hispanic",
+    zip_code: 94601,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Ate at a restaurant,,Increased frequency of hand washing with soap,,Did not leave my home for non-critical needs,Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "other",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 14:49:40",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1961,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "prefer_not_to_say",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94110,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1961,
+    gender: "female",
+    ethnicity: "prefer_not_to_say",
+    zip_code: 94110,
+    employment_status: "",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,Did not leave my home for non-critical needs,,Rescheduled or canceled pre-arranged travel plans,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "information_services_and_data",
-    "What is your income?": "prefer_not_to_say"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "information_services_and_data",
+    income: "prefer_not_to_say"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 10:10:20",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 2,
-    "What year were you born?": 1998,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95035,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "I don't know",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 2,
+    year_born: 1998,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 95035,
+    employment_status: "",
+    loved_ones_at_risk: "I don't know",
+    past_48_hours:
       "Did not leave my home for non-critical needs,,,Attended in-person gatherings outside of my household,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly disagree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Strongly disagree",
+    doing_financially: "",
+    industry: "other",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 09:40:31",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 1983,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "multiracial",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94109,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 4,
+    year_born: 1983,
+    gender: "female",
+    ethnicity: "multiracial",
+    zip_code: 94109,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,,,Maintained 3 feet distance between myself and other people outside of my household,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "other",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 16:11:56",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 1964,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95117,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
-      "Did not leave my home for non-critical needs,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "health_care_and_social_assistance",
-    "What is your income?": "lower_ii"
+    weeks_before_normal: 4,
+    year_born: 1964,
+    gender: "female",
+    ethnicity: "hispanic",
+    zip_code: 95117,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours: "Did not leave my home for non-critical needs,,,,",
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Neutral",
+    doing_financially: "",
+    industry: "health_care_and_social_assistance",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 13:58:59",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1981,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95117,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1981,
+    gender: "female",
+    ethnicity: "hispanic",
+    zip_code: 95117,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "agriculture_forestry_fishing_or_hunting",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "agriculture_forestry_fishing_or_hunting",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 14:33:26",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 1972,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "black",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94109,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "I don't know",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 4,
+    year_born: 1972,
+    gender: "male",
+    ethnicity: "black",
+    zip_code: 94109,
+    employment_status: "",
+    loved_ones_at_risk: "I don't know",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,Ate at a restaurant,,,,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly disagree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "hotel_and_food_services",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Strongly disagree",
+    doing_financially: "",
+    industry: "hotel_and_food_services",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 14:04:46",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 5,
-    "What year were you born?": 1991,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95148,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "I don't know",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 5,
+    year_born: 1991,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 95148,
+    employment_status: "",
+    loved_ones_at_risk: "I don't know",
+    past_48_hours:
       "Ate at a restaurant,,Increased frequency of hand washing with soap,,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "finance_and_insurance",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "finance_and_insurance",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 11:57:08",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1974,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94601,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1974,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94601,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly disagree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "construction",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "Strongly disagree",
+    doing_financially: "",
+    industry: "construction",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 14:48:12",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 5,
-    "What year were you born?": 1985,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95124,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 5,
+    year_born: 1985,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 95124,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "manufacturing_computer_and_electronics",
-    "What is your income?": "high_i"
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "manufacturing_computer_and_electronics",
+    income: "high_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 15:28:01",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 6,
-    "What year were you born?": 1985,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "other",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95117,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 6,
+    year_born: 1985,
+    gender: "female",
+    ethnicity: "other",
+    zip_code: 95117,
+    employment_status: "",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,Ate at a restaurant,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "finance_and_insurance",
-    "What is your income?": "middle_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "finance_and_insurance",
+    income: "middle_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 13:20:27",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 5,
-    "What year were you born?": 1965,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94122,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 5,
+    year_born: 1965,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 94122,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "arts_entertainment_or_recreation",
-    "What is your income?": "middle_i"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Neutral",
+    doing_financially: "",
+    industry: "arts_entertainment_or_recreation",
+    income: "middle_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 09:45:40",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 2001,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "multiracial",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94114,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 2001,
+    gender: "female",
+    ethnicity: "multiracial",
+    zip_code: 94114,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,Ate at a restaurant,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,,Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "advertising",
-    "What is your income?": "high_iii"
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "advertising",
+    income: "high_iii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 14:27:45",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 3,
-    "What year were you born?": 1981,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94014,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 3,
+    year_born: 1981,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 94014,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,,Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "homemaker",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "homemaker",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 14:46:49",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 2001,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95117,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 4,
+    year_born: 2001,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 95117,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Ate at a restaurant,,Increased frequency of hand washing with soap,,,,,Attended in-person gatherings outside of my household,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly disagree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "construction",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Strongly disagree",
+    doing_financially: "",
+    industry: "construction",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 13:33:22",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 0,
-    "What year were you born?": 1986,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95117,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 0,
+    year_born: 1986,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 95117,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "construction",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "construction",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 14:43:58",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 6,
-    "What year were you born?": 1993,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95117,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 6,
+    year_born: 1993,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 95117,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth,,,,Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "transportation_and_warehousing",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "transportation_and_warehousing",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 09:27:55",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1946,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94123,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "I don't know",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1946,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94123,
+    employment_status: "",
+    loved_ones_at_risk: "I don't know",
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,Did not leave my home for non-critical needs,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Disagree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "education",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Disagree",
+    doing_financially: "",
+    industry: "education",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 15:21:29",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 25,
-    "What year were you born?": 1977,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94110,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 25,
+    year_born: 1977,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 94110,
+    employment_status: "",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "software",
-    "What is your income?": "prefer_not_to_say"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "software",
+    income: "prefer_not_to_say"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 15:35:58",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1939,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94110,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1939,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94110,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,Did not leave my home for non-critical needs,Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "health_care_and_social_assistance",
-    "What is your income?": "high_i"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "health_care_and_social_assistance",
+    income: "high_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 15:15:31",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 24,
-    "What year were you born?": 1950,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "multiracial",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94103,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "I don't know",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 24,
+    year_born: 1950,
+    gender: "male",
+    ethnicity: "multiracial",
+    zip_code: 94103,
+    employment_status: "",
+    loved_ones_at_risk: "I don't know",
+    past_48_hours:
       "Ate at a restaurant,,,Maintained 3 feet distance between myself and other people outside of my household,,,,,Attended in-person gatherings of 50 people",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "education",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Neutral",
+    doing_financially: "",
+    industry: "education",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 13:25:46",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1966,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95123,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1966,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 95123,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,,,,Attended in-person gatherings of 50 people",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Disagree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "homemaker",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Disagree",
+    doing_financially: "",
+    industry: "homemaker",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 15:27:03",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 3,
-    "What year were you born?": 1963,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95112,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 3,
+    year_born: 1963,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 95112,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Ate at a restaurant,Made an effort to avoid touching my eyes, nose and mouth,,,,,,,Attended in-person gatherings of 50 people",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Disagree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "software",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "Disagree",
+    doing_financially: "",
+    industry: "software",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 16:44:47",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1945,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94103,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1945,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94103,
+    employment_status: "",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,,Increased frequency of hand washing with soap,,Did not leave my home for non-critical needs,,Rescheduled or canceled pre-arranged travel plans,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "other",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 16:43:05",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 26,
-    "What year were you born?": 1942,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94708,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 26,
+    year_born: 1942,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94708,
+    employment_status: "",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth,,,Did not leave my home for non-critical needs,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "high_ii"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "other",
+    income: "high_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 15:43:51",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 1990,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "prefer_not_to_say",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94601,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 4,
+    year_born: 1990,
+    gender: "female",
+    ethnicity: "prefer_not_to_say",
+    zip_code: 94601,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,,Increased frequency of hand washing with soap,,,,,,Attended in-person gatherings of 50 people",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "military",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "military",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 10:49:50",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 1,
-    "What year were you born?": 1999,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94015,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 1,
+    year_born: 1999,
+    gender: "male",
+    ethnicity: "hispanic",
+    zip_code: 94015,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly disagree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "education",
-    "What is your income?": "high_ii"
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "Strongly disagree",
+    doing_financially: "",
+    industry: "education",
+    income: "high_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 09:51:53",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 15,
-    "What year were you born?": 1986,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "multiracial",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95117,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
-      "Attended in-person gatherings outside of my household,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "homemaker",
-    "What is your income?": "lower_ii"
+    weeks_before_normal: 15,
+    year_born: 1986,
+    gender: "female",
+    ethnicity: "multiracial",
+    zip_code: 95117,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours: "Attended in-person gatherings outside of my household,",
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Neutral",
+    doing_financially: "",
+    industry: "homemaker",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 13:29:34",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1960,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94601,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
-      "Increased frequency of hand washing with soap,,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly disagree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_i"
+    weeks_before_normal: 12,
+    year_born: 1960,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94601,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours: "Increased frequency of hand washing with soap,,,,,,",
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "Strongly disagree",
+    doing_financially: "",
+    industry: "other",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 16:06:19",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1987,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94402,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1987,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94402,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,,Increased frequency of hand washing with soap,,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "other",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 16:44:58",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1960,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94502,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1960,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 94502,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,Did not leave my home for non-critical needs,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "government_and_public_administration",
-    "What is your income?": "prefer_not_to_say"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Neutral",
+    doing_financially: "",
+    industry: "government_and_public_administration",
+    income: "prefer_not_to_say"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 11:49:52",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 2,
-    "What year were you born?": 1983,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94025,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 2,
+    year_born: 1983,
+    gender: "male",
+    ethnicity: "hispanic",
+    zip_code: 94025,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,Ate at a restaurant,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "retail",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "retail",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 16:12:18",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1986,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "multiracial",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95111,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1986,
+    gender: "female",
+    ethnicity: "multiracial",
+    zip_code: 95111,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,Ate at a restaurant,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "homemaker",
-    "What is your income?": "high_ii"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Neutral",
+    doing_financially: "",
+    industry: "homemaker",
+    income: "high_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 16:32:55",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 3,
-    "What year were you born?": 1985,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "prefer_not_to_say",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95132,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
-      "Attended in-person gatherings of 50 people",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "prefer_not_to_say"
+    weeks_before_normal: 3,
+    year_born: 1985,
+    gender: "male",
+    ethnicity: "prefer_not_to_say",
+    zip_code: 95132,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours: "Attended in-person gatherings of 50 people",
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "other",
+    income: "prefer_not_to_say"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 14:50:58",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1984,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "arab",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94114,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1984,
+    gender: "male",
+    ethnicity: "arab",
+    zip_code: 94114,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Ate at a restaurant,,,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "military",
-    "What is your income?": "prefer_not_to_say"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "military",
+    income: "prefer_not_to_say"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 16:49:46",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 16,
-    "What year were you born?": 1999,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95123,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 16,
+    year_born: 1999,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 95123,
+    employment_status: "",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,Ate at a restaurant,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "other",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 15:25:41",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1997,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "other",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94122,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "I don't know",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1997,
+    gender: "female",
+    ethnicity: "other",
+    zip_code: 94122,
+    employment_status: "",
+    loved_ones_at_risk: "I don't know",
+    past_48_hours:
       "Increased frequency of hand washing with soap,,Did not leave my home for non-critical needs,Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "education",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "education",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 14:32:53",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 52,
-    "What year were you born?": 1989,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95112,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 52,
+    year_born: 1989,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 95112,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,,,Rescheduled or canceled pre-arranged travel plans,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "finance_and_insurance",
-    "What is your income?": "high_i"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "finance_and_insurance",
+    income: "high_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 13:49:20",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 20,
-    "What year were you born?": 1955,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "multiracial",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94086,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "I don't know",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 20,
+    year_born: 1955,
+    gender: "female",
+    ethnicity: "multiracial",
+    zip_code: 94086,
+    employment_status: "",
+    loved_ones_at_risk: "I don't know",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,,Increased frequency of hand washing with soap,,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "transportation_and_warehousing",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "transportation_and_warehousing",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 14:10:48",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 30,
-    "What year were you born?": 1987,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95132,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 30,
+    year_born: 1987,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 95132,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Increased frequency of hand washing with soap,,Did not leave my home for non-critical needs,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "information_services_and_data",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "information_services_and_data",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 13:23:57",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1965,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95126,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1965,
+    gender: "male",
+    ethnicity: "hispanic",
+    zip_code: 95126,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,,Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "construction",
-    "What is your income?": "high_iii"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "construction",
+    income: "high_iii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 10:29:45",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 25,
-    "What year were you born?": 1987,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94114,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 25,
+    year_born: 1987,
+    gender: "male",
+    ethnicity: "asian",
+    zip_code: 94114,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),,",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Did not leave my home for non-critical needs,,,Attended in-person gatherings outside of my household,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "wholesale",
-    "What is your income?": "prefer_not_to_say"
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "wholesale",
+    income: "prefer_not_to_say"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 15:40:58",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1983,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95127,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1983,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 95127,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),,Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,Did not leave my home for non-critical needs,,Rescheduled or canceled pre-arranged travel plans,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "scientific_or_technical_services",
-    "What is your income?": "prefer_not_to_say"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "scientific_or_technical_services",
+    income: "prefer_not_to_say"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 13:50:27",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 1992,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94086,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 4,
+    year_born: 1992,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 94086,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,,Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "other",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 14:33:45",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 30,
-    "What year were you born?": 1988,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94601,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
-      "Ate at a restaurant,,,,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Disagree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "construction",
-    "What is your income?": "lower_ii"
+    weeks_before_normal: 30,
+    year_born: 1988,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94601,
+    employment_status: "",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours: "Ate at a restaurant,,,,,,,,",
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Disagree",
+    doing_financially: "",
+    industry: "construction",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 11:44:14",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1967,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94118,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "I don't know",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1967,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 94118,
+    employment_status: "",
+    loved_ones_at_risk: "I don't know",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,,,Did not leave my home for non-critical needs,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "transportation_and_warehousing",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "transportation_and_warehousing",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 09:38:44",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 16,
-    "What year were you born?": 1975,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95117,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 16,
+    year_born: 1975,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 95117,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "other",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 13:35:27",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 6,
-    "What year were you born?": 1981,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "asian",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94601,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
-      "Rescheduled or canceled pre-arranged travel plans,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_ii"
+    weeks_before_normal: 6,
+    year_born: 1981,
+    gender: "female",
+    ethnicity: "asian",
+    zip_code: 94601,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours: "Rescheduled or canceled pre-arranged travel plans,,",
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "other",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 16:49:19",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 1995,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "prefer_not_to_say",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95117,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "I don't know",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 4,
+    year_born: 1995,
+    gender: "male",
+    ethnicity: "prefer_not_to_say",
+    zip_code: 95117,
+    employment_status: "",
+    loved_ones_at_risk: "I don't know",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,Ate at a restaurant,Made an effort to avoid touching my eyes, nose and mouth,,,,,,Attended in-person gatherings outside of my household,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "agriculture_forestry_fishing_or_hunting",
-    "What is your income?": "prefer_not_to_say"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Neutral",
+    doing_financially: "",
+    industry: "agriculture_forestry_fishing_or_hunting",
+    income: "prefer_not_to_say"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 13:28:23",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 100,
-    "What year were you born?": 1972,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94103,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 100,
+    year_born: 1972,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94103,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "9+10",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "9+10",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly disagree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "military",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "9+10",
+    trust_govt_respond: "9+10",
+    change_daily_routine: "Strongly disagree",
+    doing_financially: "",
+    industry: "military",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 14:07:34",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1946,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94601,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1946,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 94601,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,Did not leave my home for non-critical needs,Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "telecommunications",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Neutral",
+    doing_financially: "",
+    industry: "telecommunications",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 11:11:59",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 2001,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94131,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 2001,
+    gender: "male",
+    ethnicity: "hispanic",
+    zip_code: 94131,
+    employment_status: "",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Maintained 3 feet distance between myself and other people outside of my household,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "agriculture_forestry_fishing_or_hunting",
-    "What is your income?": "middle_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Neutral",
+    doing_financially: "",
+    industry: "agriculture_forestry_fishing_or_hunting",
+    income: "middle_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 16:43:45",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1991,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95117,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1991,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 95117,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,,Increased frequency of hand washing with soap,,Did not leave my home for non-critical needs,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "other",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 09:48:27",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 3,
-    "What year were you born?": 1953,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95117,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 3,
+    year_born: 1953,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 95117,
+    employment_status: "",
+    loved_ones_at_risk: "Yes, due to their age (60+)",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,Did not leave my home for non-critical needs,Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Disagree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Disagree",
+    doing_financially: "",
+    industry: "other",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 10:55:49",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 10,
-    "What year were you born?": 1975,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95050,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 10,
+    year_born: 1975,
+    gender: "female",
+    ethnicity: "white",
+    zip_code: 95050,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, they live in areas affected by COVID-19 (parts of the USA, China, Italy, Korea, etc),Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,Ate at a restaurant,Made an effort to avoid touching my eyes, nose and mouth,,,Did not leave my home for non-critical needs,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "education",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "education",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 09:49:18",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1990,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94502,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "I don't know",
-    "In the past 48 hours, I... (check all that apply)":
-      "Did not leave my home for non-critical needs,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "military",
-    "What is your income?": "high_i"
+    weeks_before_normal: 12,
+    year_born: 1990,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94502,
+    employment_status: "",
+    loved_ones_at_risk: "I don't know",
+    past_48_hours: "Did not leave my home for non-critical needs,,,,",
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Neutral",
+    doing_financially: "",
+    industry: "military",
+    income: "high_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 10:17:39",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1968,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95112,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1968,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 95112,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "construction",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Neutral",
+    doing_financially: "",
+    industry: "construction",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 13:34:12",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 5,
-    "What year were you born?": 1983,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94601,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
-      "Rescheduled or canceled pre-arranged travel plans,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_ii"
+    weeks_before_normal: 5,
+    year_born: 1983,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94601,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours: "Rescheduled or canceled pre-arranged travel plans,,",
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "other",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 12:04:37",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 12,
-    "What year were you born?": 1951,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94114,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 12,
+    year_born: 1951,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94114,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,Ate at a restaurant,Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,,,,Attended in-person gatherings outside of my household,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Neutral",
+    doing_financially: "",
+    industry: "other",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 13:20:46",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 8,
-    "What year were you born?": 1981,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "hispanic",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94111,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 8,
+    year_born: 1981,
+    gender: "female",
+    ethnicity: "hispanic",
+    zip_code: 94111,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Ate at a restaurant,,,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Disagree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "transportation_and_warehousing",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Disagree",
+    doing_financially: "",
+    industry: "transportation_and_warehousing",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 15:36:46",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 4,
-    "What year were you born?": 1980,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94601,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 4,
+    year_born: 1980,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94601,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,Did not leave my home for non-critical needs,Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),Rescheduled or canceled pre-arranged travel plans,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "hotel_and_food_services",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "hotel_and_food_services",
+    income: "lower_i"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 12:57:33",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 3,
-    "What year were you born?": 1960,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94103,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
+    weeks_before_normal: 3,
+    year_born: 1960,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 94103,
+    employment_status: "",
+    loved_ones_at_risk:
       "Yes, due to existing medical conditions (Diabetes, heart disease, lung disease),Yes, due to their age (60+)",
-    "In the past 48 hours, I... (check all that apply)":
+    past_48_hours:
       "Made an effort to avoid touching my eyes, nose and mouth,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "7+8",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "7+8",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_ii"
+    public_reaction_reasonable: "7+8",
+    trust_govt_respond: "7+8",
+    change_daily_routine: "Agree",
+    doing_financially: "",
+    industry: "other",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 11:57:19",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 5,
-    "What year were you born?": 1985,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "black",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94568,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 5,
+    year_born: 1985,
+    gender: "male",
+    ethnicity: "black",
+    zip_code: 94568,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,,Increased frequency of hand washing with soap,Maintained 3 feet distance between myself and other people outside of my household,,Rescheduled or canceled non-critical in-person gatherings and appointments (e.g. birthday parties, concerts, museums, annual checkups, spa, social dinners),,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "3+4",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "3+4",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly agree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "construction",
-    "What is your income?": "middle_ii"
+    public_reaction_reasonable: "3+4",
+    trust_govt_respond: "3+4",
+    change_daily_routine: "Strongly agree",
+    doing_financially: "",
+    industry: "construction",
+    income: "middle_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 11:12:00",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 1,
-    "What year were you born?": 1998,
-    "What is your gender?": "female",
-    "What is your ethnicity?": "black",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 94103,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "No",
-    "In the past 48 hours, I... (check all that apply)":
-      "Increased frequency of hand washing with soap,,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "5+6",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "5+6",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Neutral",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_ii"
+    weeks_before_normal: 1,
+    year_born: 1998,
+    gender: "female",
+    ethnicity: "black",
+    zip_code: 94103,
+    employment_status: "",
+    loved_ones_at_risk: "No",
+    past_48_hours: "Increased frequency of hand washing with soap,,,,,,",
+    public_reaction_reasonable: "5+6",
+    trust_govt_respond: "5+6",
+    change_daily_routine: "Neutral",
+    doing_financially: "",
+    industry: "other",
+    income: "lower_ii"
   },
   {
     Datasource: "Pollfish1",
     Timestamp: "2020-03-16 12:41:19",
-    "How many WEEKS do you think it’ll take before your daily life returns to normal?": 100,
-    "What year were you born?": 1989,
-    "What is your gender?": "male",
-    "What is your ethnicity?": "white",
-    "What is the zip code (i.e. postal code) of the place you currently live in?": 95112,
-    "What is your employment status?": "",
-    "Is any of your loved ones at higher risk of COVID-19? (check all that apply)":
-      "I don't know",
-    "In the past 48 hours, I... (check all that apply)":
+    weeks_before_normal: 100,
+    year_born: 1989,
+    gender: "male",
+    ethnicity: "white",
+    zip_code: 95112,
+    employment_status: "",
+    loved_ones_at_risk: "I don't know",
+    past_48_hours:
       "Cleaned surfaces with disinfecting wipes or sprays,,,Increased frequency of hand washing with soap,,,,,,",
-    "On a scale of 1 to 10, how reasonable do you think the public reaction is to COVID-19 now? (1 is under-reacting and 10 is overreacting)":
-      "1+2",
-    "On a scale of 1 to 10, how much do you trust the government to respond to COVID-19 effectively? (1 is strongly distrust and 10 is strongly trust)":
-      "1+2",
-    'COVID-19 has led me to drastically change my daily routines and the way I spend my day." How much do you agree or disagree with this statement?':
-      "Strongly disagree",
-    "How are you doing financially today, compared to a year ago?": "",
-    "What industry are you part of?": "other",
-    "What is your income?": "lower_i"
+    public_reaction_reasonable: "1+2",
+    trust_govt_respond: "1+2",
+    change_daily_routine: "Strongly disagree",
+    doing_financially: "",
+    industry: "other",
+    income: "lower_i"
   }
 ];
